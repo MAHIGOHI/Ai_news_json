@@ -1,42 +1,42 @@
 [
-{
-"title": "OpenAI to Launch Proprietary AI Chip with Broadcom",
-"full": "OpenAI is set to begin mass production of its own AI chips in 2026, co-designed with Broadcom. These chips will be used exclusively within OpenAI to enhance performance and reduce dependency on Nvidia."
-},
-{
-"title": "Anthropic Settles $1.5B Copyright Lawsuit",
-"full": "Anthropic has agreed to pay $1.5 billion to authors in a landmark lawsuit over pirated books, marking the largest AI-copyright settlement to date."
-},
-{
-"title": "Switzerland Releases 100% Open AI Model",
-"full": "Switzerland has launched a fully open-source AI model, promoting transparency and accessibility in AI development."
-},
-{
-"title": "Apple Faces Lawsuit Over AI Training Data",
-"full": "Authors have sued Apple for using their books without permission to train AI models, raising concerns over intellectual property rights."
-},
-{
-"title": "AWS to Feature Generative AI at IBC2025",
-"full": "Amazon Web Services will showcase generative AI innovations at IBC2025, focusing on media and entertainment applications."
-},
-{
-"title": "IBM Unveils Emotionally Attuned AI Commentary",
-"full": "IBM has introduced AI-driven tennis commentary that adjusts tone and enthusiasm based on match dynamics, enhancing fan engagement."
-},
-{
-"title": "Alibaba's AI Cloud Business Drives Stock Surge",
-"full": "Alibaba's AI-powered cloud services have led to a 19% surge in its stock price, reflecting strong investor confidence."
-},
-{
-"title": "Microsoft Offers Free AI Tools to U.S. Government",
-"full": "Microsoft has partnered with the U.S. government to provide free access to AI tools, aiming to modernize federal operations."
-},
-{
-"title": "UK AI Sector Hits Record £2.9B Investment",
-"full": "The UK's AI sector has attracted a record £2.9 billion in investment, solidifying its position as a global AI hub."
-},
-{
-"title": "ARN Explores Replacing Human Hosts with AI",
-"full": "Australian radio network ARN is testing AI-generated voices to replace human presenters, aiming to reduce costs."
-}
+  {
+    "title": "Meta Launches AI-Powered Video Editor for Reels",
+    "full": "Meta has introduced a new AI tool for creators that automatically suggests cuts, music, and captions for Instagram Reels. The editor aims to save time and boost engagement by personalizing content suggestions."
+  },
+  {
+    "title": "Google Gemini Adds Multi-Modal Search Features",
+    "full": "Google has updated Gemini with the ability to understand text, images, and voice together. Users can now upload a photo, ask a voice question, and receive AI-driven results combining multiple formats."
+  },
+  {
+    "title": "Stability AI Releases Free Text-to-3D Tool",
+    "full": "Stability AI has launched a free web-based tool that lets users generate simple 3D models from text prompts. The tool is designed for indie game developers, hobbyists, and educators."
+  },
+  {
+    "title": "Adobe Enhances Photoshop with Generative Fill 2.0",
+    "full": "Adobe has rolled out Generative Fill 2.0 in Photoshop, making AI edits faster and more realistic. The update includes new lighting adjustments and better blending for professional use."
+  },
+  {
+    "title": "Nvidia Partners with Indian Startups for AI Training",
+    "full": "Nvidia has signed agreements with several Indian startups to provide GPUs and training programs. The move is part of expanding AI infrastructure in emerging markets."
+  },
+  {
+    "title": "YouTube Tests AI-Powered Comment Summaries",
+    "full": "YouTube is experimenting with an AI tool that automatically summarizes long comment sections under videos. This helps viewers quickly catch up on discussions without scrolling endlessly."
+  },
+  {
+    "title": "Amazon Alexa Gets Major AI Upgrade",
+    "full": "Amazon has upgraded Alexa with conversational AI, allowing it to remember context and respond more naturally. The update also introduces multi-turn conversations for smart home controls."
+  },
+  {
+    "title": "Tesla Expands AI Team for Humanoid Robots",
+    "full": "Tesla is aggressively hiring AI engineers to accelerate the development of Optimus, its humanoid robot project. Elon Musk claims Optimus could eventually outnumber Tesla cars in production."
+  },
+  {
+    "title": "OpenAI Adds Memory to ChatGPT",
+    "full": "OpenAI has begun rolling out a 'memory' feature in ChatGPT, allowing it to remember user preferences and context across conversations. Users can manage, reset, or turn off memory anytime."
+  },
+  {
+    "title": "Samsung Showcases AI-Driven Health Features",
+    "full": "Samsung has revealed new AI-powered health monitoring tools for Galaxy devices, including stress tracking, sleep improvement suggestions, and personalized exercise recommendations."
+  }
 ]
