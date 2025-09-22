@@ -1,42 +1,42 @@
 [
   {
-    "title": "Meta Launches AI-Powered Video Editor for Reels",
-    "full": "Meta has introduced a new AI tool for creators that automatically suggests cuts, music, and captions for Instagram Reels. The editor aims to save time and boost engagement by personalizing content suggestions."
+    "title": "Meta Unveils Ray-Ban AI Goggles 🕶️",
+    "full": "Meta has teamed up with Ray-Ban to launch AI-powered smart goggles that integrate camera, speakers, and Meta AI Assistant. You can now snap photos, ask questions, and get instant feedback just by speaking.\n\n💡 Example: Wearing the goggles, you say “What building is this?” and it uses visual recognition & Maps to tell you the name.\n\n⚡ Pro Tip: Perfect gear for travelers & content creators—hands-free capture + real-time info makes vlogging smoother."
   },
   {
-    "title": "Google Gemini Adds Multi-Modal Search Features",
-    "full": "Google has updated Gemini with the ability to understand text, images, and voice together. Users can now upload a photo, ask a voice question, and receive AI-driven results combining multiple formats."
+    "title": "Google Gemini Adds Multimodal Search 🔍",
+    "full": "Google Gemini is now able to understand text, images, and voice together. Upload a photo + ask a voice question to get responses combining multiple formats.\n\n💡 Example: Upload an image of a recipe and ask verbally, “What are the steps to cook this?” You’ll receive instructions based on visuals & voice input.\n\n✨ This change is great for researchers, students and those who like immersive searches."
   },
   {
-    "title": "Stability AI Releases Free Text-to-3D Tool",
-    "full": "Stability AI has launched a free web-based tool that lets users generate simple 3D models from text prompts. The tool is designed for indie game developers, hobbyists, and educators."
+    "title": "OpenAI Introduces Memory for ChatGPT 🧠",
+    "full": "OpenAI has rolled out a memory feature that remembers your preferences and context across conversations. You can manage, reset, or even disable memory anytime.\n\n💡 Example: If you once say “Always give me beginner-friendly explanations,” later on ChatGPT adapts accordingly without asking again.\n\n⚡ Pro Tip: Use memory to build a personalized tutor or companion over time."
   },
   {
-    "title": "Adobe Enhances Photoshop with Generative Fill 2.0",
-    "full": "Adobe has rolled out Generative Fill 2.0 in Photoshop, making AI edits faster and more realistic. The update includes new lighting adjustments and better blending for professional use."
+    "title": "Microsoft Office Gets AI Writing Coach ✍️",
+    "full": "Microsoft Office apps (Word, Outlook) now include an AI Writing Coach to help with grammar, clarity & tone suggestions. It reviews your writing style and offers improvements in real time.\n\n💡 Example: Writing a formal email? The coach suggests softer phrases and fixes grammar mistakes.\n\n✨ Great tool for students & professionals aiming for polished, error-free content."
   },
   {
-    "title": "Nvidia Partners with Indian Startups for AI Training",
-    "full": "Nvidia has signed agreements with several Indian startups to provide GPUs and training programs. The move is part of expanding AI infrastructure in emerging markets."
+    "title": "YouTube Tests AI Video Chapters 🎞️",
+    "full": "YouTube is testing AI-generated video chapters that divide videos into meaningful segments automatically. Want to jump to a tutorial step? It’ll let you.\n\n💡 Example: In a 20-minute tutorial video, you can skip ahead to ‘Step 3’ directly without scrolling through comments or searching timestamps.\n\n⚡ Pro Tip: Use this feature to save time and revisit specific parts of videos easily."
   },
   {
-    "title": "YouTube Tests AI-Powered Comment Summaries",
-    "full": "YouTube is experimenting with an AI tool that automatically summarizes long comment sections under videos. This helps viewers quickly catch up on discussions without scrolling endlessly."
+    "title": "Amazon Alexa Gets Conversational Upgrade 🔊",
+    "full": "Amazon has upgraded Alexa with conversational AI improvements. It can now hold multi-turn conversations, remember past inputs, and respond more naturally.\n\n💡 Example: You ask “What’s on my schedule today?” and then “Remind me 2 hours before meeting,” and Alexa retains context.\n\n✨ Excellent for smart home users who prefer voice interaction over typing."
   },
   {
-    "title": "Amazon Alexa Gets Major AI Upgrade",
-    "full": "Amazon has upgraded Alexa with conversational AI, allowing it to remember context and respond more naturally. The update also introduces multi-turn conversations for smart home controls."
+    "title": "Stability AI Releases Free Text-to-3D Tool 🧱",
+    "full": "Stability AI has launched a free web-based tool that generates simple 3D models from text prompts. Ideal for indie game developers, educators or hobbyists wanting to visualize ideas quickly.\n\n💡 Example: Type “medieval cottage in forest” and receive a basic 3D preview you can embed or export.\n\n⚡ Pro Tip: Use simple prompts first (shape/color) before adding complex details for better results."
   },
   {
-    "title": "Tesla Expands AI Team for Humanoid Robots",
-    "full": "Tesla is aggressively hiring AI engineers to accelerate the development of Optimus, its humanoid robot project. Elon Musk claims Optimus could eventually outnumber Tesla cars in production."
+    "title": "IBM Launches Emotion-Aware Commentary Tool 🎙️",
+    "full": "IBM introduced an AI commentary tool that changes tone and enthusiasm based on match dynamics. Sports broadcasts can feel more alive with emotionally attuned AI narration.\n\n💡 Example: During a tennis match, commentary tone intensifies during tiebreaks and calms during pauses.\n\n✨ Broadcasters & streaming platforms could use this to enhance viewer engagement."
   },
   {
-    "title": "OpenAI Adds Memory to ChatGPT",
-    "full": "OpenAI has begun rolling out a 'memory' feature in ChatGPT, allowing it to remember user preferences and context across conversations. Users can manage, reset, or turn off memory anytime."
+    "title": "UK AI Investments Hit £2.9B 💼",
+    "full": "The UK AI sector has attracted record investment of £2.9 billion, showing strong confidence in AI R&D & startups. This is a major boost for innovation.\n\n💡 Example: These funds are being used for robotics, healthcare AI tools & sustainable tech in the UK.\n\n⚡ For developers & entrepreneurs, it means more opportunities, grants & collaboration ahead."
   },
   {
-    "title": "Samsung Showcases AI-Driven Health Features",
-    "full": "Samsung has revealed new AI-powered health monitoring tools for Galaxy devices, including stress tracking, sleep improvement suggestions, and personalized exercise recommendations."
+    "title": "TikTok Experiments with Auto Highlights 🎬",
+    "full": "TikTok is testing a new AI feature that auto-summarizes long videos into short highlight reels using trending music & scene detection.\n\n💡 Example: A full 2-minute cooking video could get transformed into a 30-second highlights version automatically.\n\n✨ Helps viewers catch up quickly, and creators get more content exposure with minimal effort."
   }
 ]
