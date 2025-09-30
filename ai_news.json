@@ -1,42 +1,30 @@
 [
   {
-    "title": "Meta Unveils Ray-Ban AI Goggles 🕶️",
-    "full": "Meta has teamed up with Ray-Ban to launch AI-powered smart goggles that integrate camera, speakers, and Meta AI Assistant. You can now snap photos, ask questions, and get instant feedback just by speaking.\n\n💡 Example: Wearing the goggles, you say “What building is this?” and it uses visual recognition & Maps to tell you the name.\n\n⚡ Pro Tip: Perfect gear for travelers & content creators—hands-free capture + real-time info makes vlogging smoother."
+    "title": "California Signs Landmark AI Safety Law 🏛️",
+    "full": "California Governor Gavin Newsom signed a new AI regulation law that mandates companies using powerful AI models to publicly disclose safety protocols and report incidents within 15 days. Violating firms could face fines up to $1 million. This step is seen as one of the strictest state-level AI oversight moves in the U.S.\n\n💡 Example: If a company develops an AI system that malfunctions causing major damage, they must report the incident and their mitigation strategy.\n\n⚡ Pro Tip: AI developers now need to build in transparency from day one—document decision logic and keep logs."
   },
   {
-    "title": "Google Gemini Adds Multimodal Search 🔍",
-    "full": "Google Gemini is now able to understand text, images, and voice together. Upload a photo + ask a voice question to get responses combining multiple formats.\n\n💡 Example: Upload an image of a recipe and ask verbally, “What are the steps to cook this?” You’ll receive instructions based on visuals & voice input.\n\n✨ This change is great for researchers, students and those who like immersive searches."
+    "title": "Honor’s Dual-Engine AI Era Teased 📱",
+    "full": "At Snapdragon Summit 2025, Honor teased its upcoming “Dual-Engine AI” era with the Magic 8 Pro. It promises on-device AI, lower energy use, and features like Agent-powered ‘Magic Color’ which edits images based on your commands.\n\n💡 Example: You could say “Make this photo moody” and it applies color, shadows, tone automatically.\n\n✨ This reduces reliance on cloud, making AI faster and more private."
   },
   {
-    "title": "OpenAI Introduces Memory for ChatGPT 🧠",
-    "full": "OpenAI has rolled out a memory feature that remembers your preferences and context across conversations. You can manage, reset, or even disable memory anytime.\n\n💡 Example: If you once say “Always give me beginner-friendly explanations,” later on ChatGPT adapts accordingly without asking again.\n\n⚡ Pro Tip: Use memory to build a personalized tutor or companion over time."
+    "title": "Anthropic Expands Global Workforce 🌍",
+    "full": "Anthropic announced plans to triple its international employee count by 2025, with new teams in India, Australia, New Zealand, Korea, and Europe. It aims to strengthen global footprint and compete with major AI players like OpenAI. Currently, about 80% of Claude’s usage comes from outside the U.S.\n\n💡 Example: They’ll hire engineers, product leads, local marketing heads in those regions.\n\n⚡ Pro Tip: AI companies are seeing demand rising in non-U.S. markets—local talent hiring is becoming key."
   },
   {
-    "title": "Microsoft Office Gets AI Writing Coach ✍️",
-    "full": "Microsoft Office apps (Word, Outlook) now include an AI Writing Coach to help with grammar, clarity & tone suggestions. It reviews your writing style and offers improvements in real time.\n\n💡 Example: Writing a formal email? The coach suggests softer phrases and fixes grammar mistakes.\n\n✨ Great tool for students & professionals aiming for polished, error-free content."
+    "title": "MIT Researchers Release SCIGEN for Material Design 🧪",
+    "full": "MIT introduced SCIGEN, a tool that guides generative AI models to obey design rules when creating new materials. This allows creation of exotic materials with specific properties, such as in quantum computing or magnetic materials.\n\n💡 Example: SCIGEN could steer models to generate Kagome lattice structures for novel superconductors.\n\n✨ This bridges generative AI & materials science—future of AI in real physical innovation."
   },
   {
-    "title": "YouTube Tests AI Video Chapters 🎞️",
-    "full": "YouTube is testing AI-generated video chapters that divide videos into meaningful segments automatically. Want to jump to a tutorial step? It’ll let you.\n\n💡 Example: In a 20-minute tutorial video, you can skip ahead to ‘Step 3’ directly without scrolling through comments or searching timestamps.\n\n⚡ Pro Tip: Use this feature to save time and revisit specific parts of videos easily."
+    "title": "Google’s 2025 DORA Report Reveals AI in Dev Tools 🛠️",
+    "full": "The 2025 DORA report by Google shows that AI has become nearly universal in developer toolkits. Among surveyed 5,000+ developers, a large majority now use AI assistance in coding, testing, and deployment.\n\n💡 Example: Developers use AI assistants to generate boilerplate code, find bugs, or suggest performance improvements.\n\n⚡ Pro Tip: If you're a developer, mastering prompt design for AI dev tools will give you an edge."
   },
   {
-    "title": "Amazon Alexa Gets Conversational Upgrade 🔊",
-    "full": "Amazon has upgraded Alexa with conversational AI improvements. It can now hold multi-turn conversations, remember past inputs, and respond more naturally.\n\n💡 Example: You ask “What’s on my schedule today?” and then “Remind me 2 hours before meeting,” and Alexa retains context.\n\n✨ Excellent for smart home users who prefer voice interaction over typing."
+    "title": "Huawei Open-Sources Chip & AI Plans 🖥️",
+    "full": "Huawei announced that by December 31, 2025, it will open source interfaces and other components of its CANN & openPangu stacks. They're also working on the Ascend 960 chip featuring major compute and memory upgrades.\n\n💡 Example: Future AI developers worldwide could build tools on Huawei’s open frameworks.\n\n✨ Moves like these help democratize AI infrastructure globally."
   },
   {
-    "title": "Stability AI Releases Free Text-to-3D Tool 🧱",
-    "full": "Stability AI has launched a free web-based tool that generates simple 3D models from text prompts. Ideal for indie game developers, educators or hobbyists wanting to visualize ideas quickly.\n\n💡 Example: Type “medieval cottage in forest” and receive a basic 3D preview you can embed or export.\n\n⚡ Pro Tip: Use simple prompts first (shape/color) before adding complex details for better results."
-  },
-  {
-    "title": "IBM Launches Emotion-Aware Commentary Tool 🎙️",
-    "full": "IBM introduced an AI commentary tool that changes tone and enthusiasm based on match dynamics. Sports broadcasts can feel more alive with emotionally attuned AI narration.\n\n💡 Example: During a tennis match, commentary tone intensifies during tiebreaks and calms during pauses.\n\n✨ Broadcasters & streaming platforms could use this to enhance viewer engagement."
-  },
-  {
-    "title": "UK AI Investments Hit £2.9B 💼",
-    "full": "The UK AI sector has attracted record investment of £2.9 billion, showing strong confidence in AI R&D & startups. This is a major boost for innovation.\n\n💡 Example: These funds are being used for robotics, healthcare AI tools & sustainable tech in the UK.\n\n⚡ For developers & entrepreneurs, it means more opportunities, grants & collaboration ahead."
-  },
-  {
-    "title": "TikTok Experiments with Auto Highlights 🎬",
-    "full": "TikTok is testing a new AI feature that auto-summarizes long videos into short highlight reels using trending music & scene detection.\n\n💡 Example: A full 2-minute cooking video could get transformed into a 30-second highlights version automatically.\n\n✨ Helps viewers catch up quickly, and creators get more content exposure with minimal effort."
+    "title": "AI Investment Surge Raises Bubble Concerns 💸",
+    "full": "Spending on AI infrastructure has reached massive heights, but concerns loom over an AI overbuild. For instance, CoreWeave is building a $15B data center in North Dakota, betting heavily on future AI demand.\n\n💡 Example: If not enough AI usage matches infrastructure build, many data centers could stay idle.\n\n⚡ Pro Tip: As a creator, watch infrastructure spending trends—they affect cost, latency & opportunity."
   }
 ]
