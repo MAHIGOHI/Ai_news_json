@@ -1,30 +1,30 @@
 [
   {
-    "title": "Meta Tracks Employee AI Use, Gamifies Adoption 🎯",
-    "full": "Meta has begun actively monitoring how much its employees use AI tools internally, and turned it into a gamified system dubbed 'Level Up'. Employees earn badges as they hit AI usage milestones using their internal chatbot, MetaMate. This initiative aims to boost AI adoption across teams and integrate AI deeper into daily workflows.\n\n💡 Example: A software engineer using Meta’s AI code assistant more consistently could unlock productivity badges and gain internal recognition.\n\n⚠️ Note: This also sparks debate about surveillance and privacy in workplaces."
+    "title": "OpenAI & AMD Sign Chip Supply Deal 🤝",
+    "full": "OpenAI has forged a strategic partnership with AMD to power its future AI infrastructure. Under the agreement, AMD will supply its high-performance Instinct MI450 chips beginning 2026, aiming to meet OpenAI’s growing compute demands. The deal also includes a warrant for OpenAI to acquire up to 160 million shares in AMD (≈10% stake). \n\n💡 Example: OpenAI will initially deploy 1 gigawatt of compute, scaling up to 6 GW over time to support model training, inference, and generative workloads. \n\n⚡ Pro Tip: Diversifying hardware partners is becoming crucial in AI, so keep track of emerging chip suppliers."
   },
   {
-    "title": "California Signs AI Safety Disclosure Law 🏛️",
-    "full": "Governor Gavin Newsom of California signed a landmark law mandating that major AI companies publicly disclose safety protocols and report incidents within 15 days. It aims to regulate powerful AI models to prevent misuse in areas such as infrastructure sabotage or bioweapon development. Violations could cost companies up to $1 million. 0\n\n💡 Example: AI firms crossing a computational threshold must document how they mitigate risks and make those documents public.\n\n⚠️ Pro Tip: AI startups should begin building transparency & safety logs now, before regulations catch up."
+    "title": "EU Launches €1B 'Apply AI' Strategy 🇪🇺",
+    "full": "The European Commission rolled out a €1 billion ‘Apply AI’ plan to boost AI adoption across critical sectors while reducing dependence on U.S. and Chinese tech. Key focus areas include healthcare, manufacturing, automotive, and defense. \n\n💡 Example: EU aims to create AI screening centers for health diagnostics and agentic automation in manufacturing lines. \n\n✨ Pro Tip: Startups in Europe may benefit from funding & incentives via this strategy."
   },
   {
-    "title": "Google Adds Visual Search to AI Mode 🔍",
-    "full": "In a recent update, Google’s AI Mode in Search now supports visual exploration. Users can ask questions and see rich visual results, refining queries dynamically without switching context. 1\n\n💡 Example: You upload a photo of a lamp style you like and ask “Show me similar ones in brown” — Google shows matching products immediately.\n\n✨ UX Impact: Makes search more intuitive and shopping easier, especially for visual queries."
+    "title": "Anthropic Opens First India Office in 2026 🇮🇳",
+    "full": "Claude’s maker Anthropic announced its first office in India, choosing Bengaluru for its strategic tech ecosystem. India is already one of its fastest growing markets globally. \n\n💡 Example: The new office will handle product development, customer support, and regional localization efforts. \n\n⚡ Pro Tip: Local presence often leads to better support, pricing, and partnership opportunities in that region."
   },
   {
-    "title": "MIT Researchers Study AI’s Climate Footprint 🌱",
-    "full": "MIT published a report warning that generative AI’s explosive growth may significantly raise greenhouse gas emissions unless mitigated. Researchers are exploring ways to reduce environmental harm via efficient model design and sustainable infrastructure. 2\n\n💡 Example: Using model pruning, quantization or switching to renewable energy power sources can lower carbon footprint.\n\n⚡ Tip: Developers should monitor energy usage metrics and prefer lighter models when possible."
+    "title": "Elon Musk’s xAI Plans AI Game & Movie 🎮🎬",
+    "full": "Elon Musk revealed ambitious goals for xAI: to launch a fully AI-generated game and a watchable AI movie by end of 2026. Also, Grok Imagine v0.9 was previewed with more creative content generation abilities. \n\n💡 Example: The AI movie might include scene generation, dialogue, and direction entirely by algorithms. \n\n⚠️ Note: Ethical & copyright questions are bound to arise with AI-created entertainment."
   },
   {
-    "title": "OpenAI Expands 'Stargate' Project with Debt Financing 📈",
-    "full": "OpenAI’s infrastructure initiative, Stargate, is growing — now exploring debt financing and chip leasing to fund new data centers. The project’s scale now covers GPT compute, storage, and model serving infrastructure. 3\n\n💡 Example: Instead of owning all hardware upfront, OpenAI may lease chip capacity to scale faster.\n\n⚠️ Insight: Infrastructure is becoming a differentiator in AI — having cheap, scalable compute is as critical as the models themselves."
+    "title": "India: Vodafone Idea Launches Vi Protect AI Suite 🔒",
+    "full": "Vodafone Idea introduced Vi Protect, an AI-powered security suite designed to combat spam, phishing, and cyber threats. It will protect both consumer and enterprise users via automatic threat detection. \n\n💡 Example: If a suspicious SMS or app behavior is detected, Vi Protect issues alerts or blocks the threat. \n\n✨ Pro Tip: Security tools like this may become standard in telecom apps soon."
   },
   {
-    "title": "Amazon Launches AI-Heavy Hardware Lineup 🔌",
-    "full": "At its 2025 hardware event, Amazon unveiled a slew of new devices powered by AI integration. New Echo devices, Fire TV products with Omnisense, and the Kindle Scribe Colorsoft were key announcements. AI features push local computing to reduce latency and enhance user experience. 4\n\n💡 Example: The Echo Dot Max and Echo Show models use new AZ3 chips for on-device AI functions without cloud reliance.\n\n✨ Watch out: The AI hardware arms race is accelerating — devices will resemble mini-AI hubs sooner than you think."
+    "title": "GITEX 2025: Dubai Debuts AI Trackless Tram 🚋",
+    "full": "At GITEX Global 2025, Dubai’s RTA unveiled the first glimpse of an AI-powered Trackless Tram, part of 11 smart mobility projects in the exhibition. This tram doesn’t need rails, uses AI for navigation and route optimization. \n\n💡 Example: Imagine public transport that adapts route dynamically based on traffic & demand. \n\n⚡ Pro Tip: Watch smart mobility — AI + transit could reshape how cities move."
   },
   {
-    "title": "Meta to Use Chatbot Conversations for Ad Targeting 📢",
-    "full": "Meta plans to begin using conversations from its AI chatbot to personalize ads on Facebook and Instagram. Starting December 2025, these conversations will feed into ad targeting, with exceptions for sensitive topics. Users in EU, UK, South Korea will be exempt initially. 5\n\n💡 Example: You chat with Meta’s AI assistant about hiking boots, then see more boot ads in your feed.\n\n⚠️ Concern: Privacy and consent become critical — users may push back on how personal chats are monetized."
+    "title": "AI Helps Astronomers Spot Cosmic Events 🔭",
+    "full": "New AI techniques help astronomers detect cosmic phenomena (like supernovae) with fewer examples. Models are trained to reveal rare events even from limited data. \n\n💡 Example: AI identified a supernova in the Large Magellanic Cloud from faint signals that humans might miss. \n\n✨ Pro Tip: AI is pushing boundaries in science too — not just content & business."
   }
 ]
