@@ -1,30 +1,38 @@
 [
   {
-    "title": "Microsoft Upgrades Windows 11 with New AI Copilot Features 🎮",
-    "full": "Microsoft has rolled out major AI enhancements for Windows 11, including a voice-activated ‘Hey Copilot’ command, expanded Copilot Vision support, and the new ‘Gaming Copilot’ on Xbox Ally consoles. These features aim to bring intelligent agents into everyday use. \n\n💡 Example: You say “Hey Copilot, book me a table for 2” and your PC handles the reservation automatically. \n\n⚡ Pro Tip: With this level of integration, even basic tasks become smarter — users should explore shortcuts, privacy settings, and how much control the AI has."
+    "title": "NVIDIA & Nokia Launch AI-Native 6G Platform 📶",
+    "full": "NVIDIA and Nokia announced a strategic partnership to develop an AI-native RAN (Radio Access Network) for 5G Advanced and 6G networks. The deal includes NVIDIA’s Arc Aerial RAN compute platform and a $1 billion investment in Nokia. The collaboration aims to enable edge-AI applications with ultra-low latency and high throughput. \n\n💡 Example: Mobile network operators could deploy AI agents at base-stations to optimize network traffic, predict outages, and adjust power usage in real time. \n\n⚡ Why it matters: This signals that telecom infrastructure is becoming deeply integrated with AI — connectivity + intelligence are merging."
   },
   {
-    "title": "OpenAI Teases AI Browser Ahead of Launch 🕸️",
-    "full": "OpenAI is preparing to introduce its own AI-powered web browser, hinted via a livestream announcement. The product reportedly integrates ChatGPT directly within Chromium-based browsing. \n\n💡 Example: Instead of opening a search engine, you type “Plan my weekend in Paris” directly into the browser and it brings results, travel bookings and recommendations all in one. \n\n✨ Pro Tip: The browser wars are heating up — having a dedicated AI browser could change how you search, shop and consume content online."
+    "title": "Adobe Unveils AI Creative Tools for Everyone 🎨",
+    "full": "At Adobe MAX 2025, Adobe introduced major updates across its tools including Adobe Firefly, Creative Cloud and GenStudio. New features allow creators to generate full videos, use audio & video generative workflows, and operate conversational AI assistants inside the creative suite. \n\n💡 Example: A designer types “Create a 30-second brand promo with upbeat music and product shots” and Firefly automates most of it with just a few tweaks. \n\n✨ Why it matters: These innovations lower the barrier for video & audio content creation — you don’t need deep technical skills to produce high-quality assets."
   },
   {
-    "title": "AI Chip Demand Sparks Memory Shortage Worldwide ⚠️",
-    "full": "The global push for AI infrastructure has caused a ripple effect: memory chips (DRAM) and other semiconductors are now in short supply, affecting many electronics makers. \n\n💡 Example: Smartphone manufacturers are facing higher component costs because chipmakers are redirecting supplies to AI-data-centers. \n\n⚡ Pro Tip: For tech enthusiasts and creators, this means hardware costs may rise — and modellers should optimize for lower-memory usage to future-proof their tools."
+    "title": "Google’s Visual Search Hits New Level 🔍",
+    "full": "Google’s AI Mode in Search now supports advanced visual queries where users can upload an image or take a live photo, ask a question, and get rich results combining vision + voice + text. This update was rolled out globally this week. \n\n💡 Example: You upload a picture of an antique vase and ask “What era is this from and where can I buy similar in brown?” — you’ll get era info + shopping results instantly. \n\n⚡ Why it matters: Search is moving from typing to talking + seeing — and that shift changes how we interact with info."
   },
   {
-    "title": "Meta Hires Top Google Researcher to Lead Video-AI Shift 📹",
-    "full": "Meta Platforms has recruited Tim Brooks, formerly of Google DeepMind and OpenAI, to spearhead its video-generation research. The move signals Meta’s deep commitment to building advanced world-models and generative video systems. \n\n💡 Example: Brooks led the Sora video generation model previously — at Meta he may unlock faster timeline for consumer-video AI. \n\n✨ Pro Tip: Video-AI is likely the next frontier — creators should experiment now with short-form dynamic visuals."
+    "title": "MIT Warns Generative AI’s Climate Impact 🌍",
+    "full": "MIT researchers released findings showing that large-scale generative AI training could significantly increase greenhouse gas emissions unless energy efficiency and sustainable compute infrastructure are prioritized. They urge model makers and data centres to adopt renewable power and efficient design. \n\n💡 Example: Training a major language model in a carbon-intensive grid may emit as much CO₂ as hundreds of cars in a year — that impact can be halved by switching to model pruning and cleaner energy. \n\n⚠️ Why it matters: As AI usage grows, its environmental cost becomes a part of the story — responsible AI isn't just about bias, but also power."
   },
   {
-    "title": "AI Entertainment: India’s First AI-Produced Mythological Series 📺",
-    "full": "Indian streaming platform collaborations have produced the country’s first large-scale AI-powered mythological series “Mahabharat: Ek Dharmayudh”, merging production design, VFX, and AI scripting. \n\n💡 Example: Scenes are generated in part via AI-assisted camera-placement and dialogue suggestions — reducing post-production time. \n\n✨ For global creators, localized AI-entertainment offers fresh opportunity — niche markets, fewer competitors and high engagement."
+    "title": "OpenAI & AMD Expand Compute Deal 🧠",
+    "full": "OpenAI and AMD are deepening their collaboration by planning a multi-year rollout of AI-specific chips starting in 2026, aiming for multi-gigawatt scale deployments of AMD’s Instinct MI450 hardware. The agreement is a strategic move to meet exponential demand for compute in generative AI. \n\n💡 Example: The first phase will deploy around 1 gigawatt of AI compute, enabling faster model updates and reduced latency for AI services. \n\n✨ Why it matters: The hardware race is heating up — for AI apps, the backend infrastructure choices now matter just as much as algorithms."
   },
   {
-    "title": "AI Compliance Gets Serious: ‘Last-Mile’ Safety Meets Regulation 🧭",
-    "full": "New reports show that industry regulators are increasingly turning to AI to fix compliance failures in global supply chains, product safety and automated work-flows. The message: AI is not just for feature-glory but reducing regulatory risk. \n\n💡 Example: A product flagged at a safety test can now trigger an AI-monitoring alert across a global network. \n\n⚠️ Pro Tip: If your app or tool uses AI, build audit-logs, explainability and transparency now — the rules are coming fast."
+    "title": "Meghan Markle & Prince Harry Join Super-Intelligent AI Ban Campaign 🛑",
+    "full": "Meghan Markle and Prince Harry, along with over 800 scientists, celebrities and AI pioneers, signed an open letter calling for a halt on ‘super-intelligent AI’ development until there is broad public and scientific consensus. The letter is organized by the Future of Life Institute. \n\n💡 Example: The letter states that only after rigorous safety frameworks are in place should AGI-type systems be developed. \n\n⚠️ Why it matters: Public awareness and activism around AI safety are growing — this affects regulation, trust and market adoption."
   },
   {
-    "title": "Google & boAt Launch ‘#boAtGeminiChallenge’ for Creators 🎨",
-    "full": "boAt and Google have partnered to launch the #boAtGeminiChallenge — a national competition inviting creators to build ads with Google’s Gemini AI tools. Running from Oct 8 to Oct 14, it aims to democratize AI-creation and reward creative storytellers. \n\n💡 Example: A student might use Gemini to generate audio-visual ads and submit for prize. \n\n✨ Tip: Competitions like these are perfect for exposure — try making one short reel using your app’s tools and submit if eligible."
+    "title": "Deloitte Invests $12 M in Indian AI CoE 💼",
+    "full": "Deloitte announced a $12 million investment to establish an AI Centre of Excellence (CoE) in India, focused on scalable solutions for healthcare, education and finance. This initiative will also drive training programmes for local talent in AI skills. \n\n💡 Example: Indian startups may collaborate with this CoE to pilot AI solutions for regional problems like crop prediction, disease screening or micro-finance. \n\n✨ Why it matters: AI investment expanding into emerging markets — not just the U.S./China story anymore."
+  },
+  {
+    "title": "Adobe’s GenVideo Tool Lets Creators Auto-Edit Content 🎥",
+    "full": "At Adobe MAX 2025, Adobe introduced a new GenVideo feature in Firefly which allows creators to paste a storyboard or prompt and get an auto-edited 60-second clip with music, transitions and voice-over. \n\n💡 Example: You type “Launch promo: upbeat music, fast cuts, product close-ups” and GenVideo outputs a ready-to-publish video. \n\n✨ Why it matters: Video editing just got democratized — the barrier to entry is lower for smaller creators."
+  },
+  {
+    "title": "Qualcomm Announces AI200 & AI250 Chips for Data-Centers 💻",
+    "full": "Qualcomm unveiled the AI200 and AI250 series chips designed for rack-scale data-centre inference workloads. The new processors offer major improvements in power-efficiency and scalability, targeting the next wave of generative AI services. \n\n💡 Example: Enterprise AI providers can deploy more racks with these chips while reducing electricity costs and heat management. \n\n⚡ Why it matters: Hardware innovation remains the backbone of the AI boom — efficient chips = cheaper, faster AI."
   }
 ]
