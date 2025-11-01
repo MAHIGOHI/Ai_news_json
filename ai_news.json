@@ -1,27 +1,52 @@
 [
   {
-    "title": "OpenAI Expands ChatGPT’s Enterprise Data Access",
-    "description": "OpenAI ne ChatGPT ko enterprise data sources ke saath integrate karne ka option launch kiya hai.\n\nIs update se businesses apne internal documents, CRM systems aur knowledge bases ko ChatGPT ke saath jod sakte hain.\n\nSecurity aur privacy protocols ko bhi strengthen kiya gaya hai taaki sensitive data secure rahe.",
+    "title": "OpenAI Launches ChatGPT for Teams with Enhanced Privacy",
+    "description": "OpenAI has introduced ChatGPT for Teams — a workspace-focused version designed for startups and small businesses.\n\nIt includes enterprise-grade data controls, shared team spaces, and faster GPT-4-turbo performance.\n\nTeam admins can manage access, monitor usage, and integrate internal data securely.",
     "image": "https://picsum.photos/800/400?random=1"
   },
   {
-    "title": "Google Gemini Enterprise to Bring AI Agent to Every Desk",
-    "description": "Google Gemini Enterprise announce kiya gaya hai jisme AI agent har employee ke desk par available hoga.\n\nYeh multimodal model support karega text, image aur video inputs — jisse productivity boost hogi.\n\nOrganizations ko ab custom workflows aur internal automation banane ka mauka mil raha hai.",
+    "title": "Google Gemini Gets Voice and Video Interaction Capabilities",
+    "description": "Google has expanded Gemini’s multimodal power by adding real-time voice and video understanding.\n\nUsers can now talk to Gemini like a live assistant — showing it objects, charts, or screens through the camera.\n\nThis update strengthens Google’s push into conversational and visual AI experiences.",
     "image": "https://picsum.photos/800/400?random=2"
   },
   {
-    "title": "DeepMind Unveils Veo 3: AI Video Creator Goes Mainstream",
-    "description": "DeepMind ne Veo 3 model launch kiya hai jisme users bina editing skills ke 4K videos generate kar sakte hain.\n\nYeh model audio, animation aur visual effects automatically handle karega — creators ke liye game-changer.\n\nPricing aur availability ab announce kiye ja rahe hain, launch early 2026 plan kiya gaya hai.",
+    "title": "Anthropic Introduces Claude 3.7 with Faster Reasoning",
+    "description": "Anthropic has released Claude 3.7, featuring improved reasoning speed and longer context windows.\n\nIt delivers more accurate code generation and smoother document understanding.\n\nDevelopers report up to 40% faster responses in production environments.",
     "image": "https://picsum.photos/800/400?random=3"
   },
   {
-    "title": "NVIDIA and TSMC Begin Production of First Blackwell AI Chips",
-    "description": "NVIDIA aur TSMC ne Blackwell AI wafer production start kar diya hai — US domestic facility me.\n\nYeh advanced AI chips 2026 tak full scale production me aa jayenge, jo generative AI computing ke landscape ko badlenge.\n\nCost aur performance dono me major improvements expect kiye ja rahe hain.",
+    "title": "NVIDIA Blackwell AI Chips Begin Mass Production",
+    "description": "NVIDIA’s Blackwell architecture has officially entered mass production with TSMC.\n\nThe new GPUs promise a 4x performance boost for AI training and inference tasks.\n\nThis marks the beginning of the next generation in high-efficiency AI hardware.",
     "image": "https://picsum.photos/800/400?random=4"
   },
   {
-    "title": "XAI Grok-Imagine: Elon Musk’s Tool Can Generate Both Safe & NSFW Visuals",
-    "description": "xAI ne Grok-Imagine tool launch kiya hai jisme users text prompts se images aur videos generate kar sakte hain — including SFW aur NSFW content.\n\nYeh launch moderation aur consent questions ko bhi raise karta hai — safety frameworks ab focus me hain.\n\nCreators aur regulators dono is innovation ko closely dekh rahe hain.",
+    "title": "Meta Introduces AI Studio for Custom Chatbot Creation",
+    "description": "Meta has rolled out AI Studio, allowing users and brands to create their own custom chatbots on Instagram and Facebook.\n\nThese bots can use a brand’s tone and personality to respond automatically.\n\nThe tool aims to bring generative AI to mainstream social engagement.",
     "image": "https://picsum.photos/800/400?random=5"
+  },
+  {
+    "title": "DeepMind’s Veo 3 Can Generate 4K Videos from Text Prompts",
+    "description": "Google DeepMind has unveiled Veo 3 — a text-to-video model capable of creating realistic 4K clips.\n\nThe model supports camera movements, lighting effects, and cinematic depth control.\n\nVeo 3 represents a major leap in AI-powered video storytelling.",
+    "image": "https://picsum.photos/800/400?random=6"
+  },
+  {
+    "title": "Runway ML Adds Real-Time Motion Tracking for AI Video",
+    "description": "Runway ML’s latest update includes real-time motion tracking powered by AI.\n\nCreators can edit backgrounds or replace subjects dynamically without green screens.\n\nThis positions Runway as a key player in the future of virtual filmmaking.",
+    "image": "https://picsum.photos/800/400?random=7"
+  },
+  {
+    "title": "Microsoft Copilot Now Integrated Across Windows and Office",
+    "description": "Microsoft has completed full integration of Copilot across Windows 11 and the Office Suite.\n\nUsers can now summarize emails, generate PowerPoint slides, and even automate Excel workflows natively.\n\nCopilot’s unified rollout shows Microsoft’s long-term AI ecosystem strategy.",
+    "image": "https://picsum.photos/800/400?random=8"
+  },
+  {
+    "title": "xAI Unveils Grok-Imagine: Text-to-Image and Video Creator",
+    "description": "Elon Musk’s xAI has announced Grok-Imagine, a new generative tool that creates both images and videos from text prompts.\n\nIt combines the Grok language model with a visual engine for cross-modal creativity.\n\nEarly access is available to premium users on X (Twitter).",
+    "image": "https://picsum.photos/800/400?random=9"
+  },
+  {
+    "title": "Adobe Firefly 3 Expands AI Image Generation Controls",
+    "description": "Adobe has updated Firefly 3 with advanced prompt editing, inpainting, and style-transfer features.\n\nDesigners can now apply AI effects directly inside Photoshop and Illustrator.\n\nThe update makes Firefly one of the most creator-friendly AI art tools available.",
+    "image": "https://picsum.photos/800/400?random=10"
   }
 ]
