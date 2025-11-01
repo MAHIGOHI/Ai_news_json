@@ -1,38 +1,27 @@
 [
   {
-    "title": "NVIDIA & Nokia Launch AI-Native 6G Platform 📶",
-    "full": "NVIDIA and Nokia announced a strategic partnership to develop an AI-native RAN (Radio Access Network) for 5G Advanced and 6G networks. The deal includes NVIDIA’s Arc Aerial RAN compute platform and a $1 billion investment in Nokia. The collaboration aims to enable edge-AI applications with ultra-low latency and high throughput. \n\n💡 Example: Mobile network operators could deploy AI agents at base-stations to optimize network traffic, predict outages, and adjust power usage in real time. \n\n⚡ Why it matters: This signals that telecom infrastructure is becoming deeply integrated with AI — connectivity + intelligence are merging."
+    "title": "OpenAI Expands ChatGPT’s Enterprise Data Access",
+    "description": "OpenAI ne ChatGPT ko enterprise data sources ke saath integrate karne ka option launch kiya hai.\n\nIs update se businesses apne internal documents, CRM systems aur knowledge bases ko ChatGPT ke saath jod sakte hain.\n\nSecurity aur privacy protocols ko bhi strengthen kiya gaya hai taaki sensitive data secure rahe.",
+    "image": "https://picsum.photos/800/400?random=1"
   },
   {
-    "title": "Adobe Unveils AI Creative Tools for Everyone 🎨",
-    "full": "At Adobe MAX 2025, Adobe introduced major updates across its tools including Adobe Firefly, Creative Cloud and GenStudio. New features allow creators to generate full videos, use audio & video generative workflows, and operate conversational AI assistants inside the creative suite. \n\n💡 Example: A designer types “Create a 30-second brand promo with upbeat music and product shots” and Firefly automates most of it with just a few tweaks. \n\n✨ Why it matters: These innovations lower the barrier for video & audio content creation — you don’t need deep technical skills to produce high-quality assets."
+    "title": "Google Gemini Enterprise to Bring AI Agent to Every Desk",
+    "description": "Google Gemini Enterprise announce kiya gaya hai jisme AI agent har employee ke desk par available hoga.\n\nYeh multimodal model support karega text, image aur video inputs — jisse productivity boost hogi.\n\nOrganizations ko ab custom workflows aur internal automation banane ka mauka mil raha hai.",
+    "image": "https://picsum.photos/800/400?random=2"
   },
   {
-    "title": "Google’s Visual Search Hits New Level 🔍",
-    "full": "Google’s AI Mode in Search now supports advanced visual queries where users can upload an image or take a live photo, ask a question, and get rich results combining vision + voice + text. This update was rolled out globally this week. \n\n💡 Example: You upload a picture of an antique vase and ask “What era is this from and where can I buy similar in brown?” — you’ll get era info + shopping results instantly. \n\n⚡ Why it matters: Search is moving from typing to talking + seeing — and that shift changes how we interact with info."
+    "title": "DeepMind Unveils Veo 3: AI Video Creator Goes Mainstream",
+    "description": "DeepMind ne Veo 3 model launch kiya hai jisme users bina editing skills ke 4K videos generate kar sakte hain.\n\nYeh model audio, animation aur visual effects automatically handle karega — creators ke liye game-changer.\n\nPricing aur availability ab announce kiye ja rahe hain, launch early 2026 plan kiya gaya hai.",
+    "image": "https://picsum.photos/800/400?random=3"
   },
   {
-    "title": "MIT Warns Generative AI’s Climate Impact 🌍",
-    "full": "MIT researchers released findings showing that large-scale generative AI training could significantly increase greenhouse gas emissions unless energy efficiency and sustainable compute infrastructure are prioritized. They urge model makers and data centres to adopt renewable power and efficient design. \n\n💡 Example: Training a major language model in a carbon-intensive grid may emit as much CO₂ as hundreds of cars in a year — that impact can be halved by switching to model pruning and cleaner energy. \n\n⚠️ Why it matters: As AI usage grows, its environmental cost becomes a part of the story — responsible AI isn't just about bias, but also power."
+    "title": "NVIDIA and TSMC Begin Production of First Blackwell AI Chips",
+    "description": "NVIDIA aur TSMC ne Blackwell AI wafer production start kar diya hai — US domestic facility me.\n\nYeh advanced AI chips 2026 tak full scale production me aa jayenge, jo generative AI computing ke landscape ko badlenge.\n\nCost aur performance dono me major improvements expect kiye ja rahe hain.",
+    "image": "https://picsum.photos/800/400?random=4"
   },
   {
-    "title": "OpenAI & AMD Expand Compute Deal 🧠",
-    "full": "OpenAI and AMD are deepening their collaboration by planning a multi-year rollout of AI-specific chips starting in 2026, aiming for multi-gigawatt scale deployments of AMD’s Instinct MI450 hardware. The agreement is a strategic move to meet exponential demand for compute in generative AI. \n\n💡 Example: The first phase will deploy around 1 gigawatt of AI compute, enabling faster model updates and reduced latency for AI services. \n\n✨ Why it matters: The hardware race is heating up — for AI apps, the backend infrastructure choices now matter just as much as algorithms."
-  },
-  {
-    "title": "Meghan Markle & Prince Harry Join Super-Intelligent AI Ban Campaign 🛑",
-    "full": "Meghan Markle and Prince Harry, along with over 800 scientists, celebrities and AI pioneers, signed an open letter calling for a halt on ‘super-intelligent AI’ development until there is broad public and scientific consensus. The letter is organized by the Future of Life Institute. \n\n💡 Example: The letter states that only after rigorous safety frameworks are in place should AGI-type systems be developed. \n\n⚠️ Why it matters: Public awareness and activism around AI safety are growing — this affects regulation, trust and market adoption."
-  },
-  {
-    "title": "Deloitte Invests $12 M in Indian AI CoE 💼",
-    "full": "Deloitte announced a $12 million investment to establish an AI Centre of Excellence (CoE) in India, focused on scalable solutions for healthcare, education and finance. This initiative will also drive training programmes for local talent in AI skills. \n\n💡 Example: Indian startups may collaborate with this CoE to pilot AI solutions for regional problems like crop prediction, disease screening or micro-finance. \n\n✨ Why it matters: AI investment expanding into emerging markets — not just the U.S./China story anymore."
-  },
-  {
-    "title": "Adobe’s GenVideo Tool Lets Creators Auto-Edit Content 🎥",
-    "full": "At Adobe MAX 2025, Adobe introduced a new GenVideo feature in Firefly which allows creators to paste a storyboard or prompt and get an auto-edited 60-second clip with music, transitions and voice-over. \n\n💡 Example: You type “Launch promo: upbeat music, fast cuts, product close-ups” and GenVideo outputs a ready-to-publish video. \n\n✨ Why it matters: Video editing just got democratized — the barrier to entry is lower for smaller creators."
-  },
-  {
-    "title": "Qualcomm Announces AI200 & AI250 Chips for Data-Centers 💻",
-    "full": "Qualcomm unveiled the AI200 and AI250 series chips designed for rack-scale data-centre inference workloads. The new processors offer major improvements in power-efficiency and scalability, targeting the next wave of generative AI services. \n\n💡 Example: Enterprise AI providers can deploy more racks with these chips while reducing electricity costs and heat management. \n\n⚡ Why it matters: Hardware innovation remains the backbone of the AI boom — efficient chips = cheaper, faster AI."
+    "title": "XAI Grok-Imagine: Elon Musk’s Tool Can Generate Both Safe & NSFW Visuals",
+    "description": "xAI ne Grok-Imagine tool launch kiya hai jisme users text prompts se images aur videos generate kar sakte hain — including SFW aur NSFW content.\n\nYeh launch moderation aur consent questions ko bhi raise karta hai — safety frameworks ab focus me hain.\n\nCreators aur regulators dono is innovation ko closely dekh rahe hain.",
+    "image": "https://picsum.photos/800/400?random=5"
   }
 ]
