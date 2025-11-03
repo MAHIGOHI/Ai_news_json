@@ -1,52 +1,52 @@
 [
   {
-    "title": "OpenAI Launches ChatGPT for Teams with Enhanced Privacy",
-    "description": "OpenAI has introduced ChatGPT for Teams — a workspace-focused version designed for startups and small businesses.\n\nIt includes enterprise-grade data controls, shared team spaces, and faster GPT-4-turbo performance.\n\nTeam admins can manage access, monitor usage, and integrate internal data securely.",
-    "image": "https://picsum.photos/800/400?random=1"
+    "title": "OpenAI Releases ChatGPT Atlas – AI-Powered Web Browser",
+    "full": "OpenAI has unveiled ChatGPT Atlas, a new AI-powered web browser that enables users to instruct the LLM to browse the internet, summarize web pages, and automate tasks across platforms.\n\nInitially launching on macOS, support for Windows, iOS and Android will follow. The browser integrates deeply with ChatGPT’s reasoning engine to streamline complex workflows.",
+    "image": "https://example.com/images/chatgpt_atlas.jpg"
   },
   {
-    "title": "Google Gemini Gets Voice and Video Interaction Capabilities",
-    "description": "Google has expanded Gemini’s multimodal power by adding real-time voice and video understanding.\n\nUsers can now talk to Gemini like a live assistant — showing it objects, charts, or screens through the camera.\n\nThis update strengthens Google’s push into conversational and visual AI experiences.",
-    "image": "https://picsum.photos/800/400?random=2"
+    "title": "Accenture Launches Physical AI Orchestrator for Smart Factories",
+    "full": "Accenture has introduced Physical AI Orchestrator, a cloud solution that combines NVIDIA Omniverse and AI agents to build real-time digital twins of manufacturing plants.\n\nThe tool enables live simulation of factory operations, predictive maintenance, and autonomous decision-making at scale in industrial settings.",
+    "image": "https://example.com/images/physical_ai_orchestrator.jpg"
   },
   {
-    "title": "Anthropic Introduces Claude 3.7 with Faster Reasoning",
-    "description": "Anthropic has released Claude 3.7, featuring improved reasoning speed and longer context windows.\n\nIt delivers more accurate code generation and smoother document understanding.\n\nDevelopers report up to 40% faster responses in production environments.",
-    "image": "https://picsum.photos/800/400?random=3"
+    "title": "Adobe Launches Firefly Boards with AI Video Models",
+    "full": "Adobe has launched Firefly Boards globally, offering AI-first collaborative tools for brainstorming, image and video generation using new models from Adobe and partners.\n\nThe platform lets users create multimedia content with generative AI integrated right inside their design workflows.",
+    "image": "https://example.com/images/adobe_firefly_boards.jpg"
   },
   {
-    "title": "NVIDIA Blackwell AI Chips Begin Mass Production",
-    "description": "NVIDIA’s Blackwell architecture has officially entered mass production with TSMC.\n\nThe new GPUs promise a 4x performance boost for AI training and inference tasks.\n\nThis marks the beginning of the next generation in high-efficiency AI hardware.",
-    "image": "https://picsum.photos/800/400?random=4"
+    "title": "Microsoft Integrates Copilot Across Windows 11 and Office Suite",
+    "full": "Microsoft has completed integration of Copilot AI across Windows 11 and the Office productivity suite, allowing users to summarise emails, generate slides and automate Excel workflows natively.\n\nThis unified rollout underscores Microsoft’s broad AI ecosystem strategy and brings powerful AI tools to everyday users.",
+    "image": "https://example.com/images/microsoft_copilot_windows.jpg"
   },
   {
-    "title": "Meta Introduces AI Studio for Custom Chatbot Creation",
-    "description": "Meta has rolled out AI Studio, allowing users and brands to create their own custom chatbots on Instagram and Facebook.\n\nThese bots can use a brand’s tone and personality to respond automatically.\n\nThe tool aims to bring generative AI to mainstream social engagement.",
-    "image": "https://picsum.photos/800/400?random=5"
+    "title": "NVIDIA Begins Mass Production of Blackwell AI Chips",
+    "full": "NVIDIA’s Blackwell architecture has entered mass production in collaboration with TSMC, offering next-generation performance for AI training and inference tasks.\n\nThese chips promise major gains in efficiency and power, signalling a shift in AI hardware capabilities at enterprise scale.",
+    "image": "https://example.com/images/nvidia_blackwell_chips.jpg"
   },
   {
-    "title": "DeepMind’s Veo 3 Can Generate 4K Videos from Text Prompts",
-    "description": "Google DeepMind has unveiled Veo 3 — a text-to-video model capable of creating realistic 4K clips.\n\nThe model supports camera movements, lighting effects, and cinematic depth control.\n\nVeo 3 represents a major leap in AI-powered video storytelling.",
-    "image": "https://picsum.photos/800/400?random=6"
+    "title": "Google Gemini Adds Real-Time Voice and Video Capabilities",
+    "full": "Google has expanded its Gemini AI model to include real-time voice and video understanding, enabling interactions where users talk to Gemini and show objects or screens through the camera.\n\nThis upgrade strengthens Google’s position in conversational and visual AI experiences.",
+    "image": "https://example.com/images/google_gemini_voice_video.jpg"
   },
   {
-    "title": "Runway ML Adds Real-Time Motion Tracking for AI Video",
-    "description": "Runway ML’s latest update includes real-time motion tracking powered by AI.\n\nCreators can edit backgrounds or replace subjects dynamically without green screens.\n\nThis positions Runway as a key player in the future of virtual filmmaking.",
-    "image": "https://picsum.photos/800/400?random=7"
+    "title": "Meta Releases Stand-alone AI App Built on Llama 4",
+    "full": "Meta Platforms has launched a stand-alone AI app based on its Llama 4 model, enabling voice-first interactions across Meta’s social media ecosystem outside Instagram, WhatsApp and Facebook.\n\nThe app includes a custom ‘Discover’ feed where users explore AI-powered use cases shared by the community.",
+    "image": "https://example.com/images/meta_llama4_app.jpg"
   },
   {
-    "title": "Microsoft Copilot Now Integrated Across Windows and Office",
-    "description": "Microsoft has completed full integration of Copilot across Windows 11 and the Office Suite.\n\nUsers can now summarize emails, generate PowerPoint slides, and even automate Excel workflows natively.\n\nCopilot’s unified rollout shows Microsoft’s long-term AI ecosystem strategy.",
-    "image": "https://picsum.photos/800/400?random=8"
+    "title": "xAI Introduces Grok-Imagine: Text-to-Image & Video Creator",
+    "full": "xAI has announced Grok-Imagine, a generative tool that creates both images and videos from text prompts by combining the Grok language model with a visual engine.\n\nEarly access is available and the launch raises implications for creator workflows and content authenticity.",
+    "image": "https://example.com/images/xai_grok_imagine.jpg"
   },
   {
-    "title": "xAI Unveils Grok-Imagine: Text-to-Image and Video Creator",
-    "description": "Elon Musk’s xAI has announced Grok-Imagine, a new generative tool that creates both images and videos from text prompts.\n\nIt combines the Grok language model with a visual engine for cross-modal creativity.\n\nEarly access is available to premium users on X (Twitter).",
-    "image": "https://picsum.photos/800/400?random=9"
+    "title": "Runway ML Adds Real-Time Motion Tracking for AI Video Editing",
+    "full": "Runway ML’s new update introduces real-time motion tracking powered by AI, allowing creators to edit backgrounds or replace subjects without green screens.\n\nThis positions Runway as a key player in virtual filmmaking and generative video workflows.",
+    "image": "https://example.com/images/runway_ml_motion_tracking.jpg"
   },
   {
-    "title": "Adobe Firefly 3 Expands AI Image Generation Controls",
-    "description": "Adobe has updated Firefly 3 with advanced prompt editing, inpainting, and style-transfer features.\n\nDesigners can now apply AI effects directly inside Photoshop and Illustrator.\n\nThe update makes Firefly one of the most creator-friendly AI art tools available.",
-    "image": "https://picsum.photos/800/400?random=10"
+    "title": "Anthropic Releases Claude 3.7 with Enhanced Reasoning Speed",
+    "full": "Anthropic has released Claude 3.7, offering faster reasoning, longer context windows and improved document understanding tailored for enterprise use.\n\nDevelopers report up to 40 % faster responses in production environments, marking a notable evolution in large language model performance.",
+    "image": "https://example.com/images/anthropic_claude3_7.jpg"
   }
 ]
