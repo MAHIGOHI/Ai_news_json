@@ -1,52 +1,52 @@
 [
   {
-    "title": "OpenAI Releases ChatGPT Atlas – AI-Powered Web Browser",
+    "title": "OpenAI Launches ChatGPT Atlas – AI-Powered Web Browser",
     "full": "OpenAI has unveiled ChatGPT Atlas, a new AI-powered web browser that enables users to instruct the LLM to browse the internet, summarize web pages, and automate tasks across platforms.\n\nInitially launching on macOS, support for Windows, iOS and Android will follow. The browser integrates deeply with ChatGPT’s reasoning engine to streamline complex workflows.",
-    "image": "https://example.com/images/chatgpt_atlas.jpg"
+    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a"
   },
   {
     "title": "Accenture Launches Physical AI Orchestrator for Smart Factories",
-    "full": "Accenture has introduced Physical AI Orchestrator, a cloud solution that combines NVIDIA Omniverse and AI agents to build real-time digital twins of manufacturing plants.\n\nThe tool enables live simulation of factory operations, predictive maintenance, and autonomous decision-making at scale in industrial settings.",
-    "image": "https://example.com/images/physical_ai_orchestrator.jpg"
+    "full": "Accenture has introduced Physical AI Orchestrator, a cloud solution that combines NVIDIA Omniverse and AI agents to build real‐time digital twins of manufacturing plants.\n\nThe tool enables live simulation of factory operations, predictive maintenance, and autonomous decision‐making at scale in industrial settings.",
+    "image": "https://images.unsplash.com/photo-1581091012184-0b73f15d4e7d"
   },
   {
     "title": "Adobe Launches Firefly Boards with AI Video Models",
     "full": "Adobe has launched Firefly Boards globally, offering AI-first collaborative tools for brainstorming, image and video generation using new models from Adobe and partners.\n\nThe platform lets users create multimedia content with generative AI integrated right inside their design workflows.",
-    "image": "https://example.com/images/adobe_firefly_boards.jpg"
+    "image": "https://images.unsplash.com/photo-1584697964193-cadc35de4986"
   },
   {
     "title": "Microsoft Integrates Copilot Across Windows 11 and Office Suite",
     "full": "Microsoft has completed integration of Copilot AI across Windows 11 and the Office productivity suite, allowing users to summarise emails, generate slides and automate Excel workflows natively.\n\nThis unified rollout underscores Microsoft’s broad AI ecosystem strategy and brings powerful AI tools to everyday users.",
-    "image": "https://example.com/images/microsoft_copilot_windows.jpg"
+    "image": "https://images.unsplash.com/photo-1581093588401-61fdf0a8b3c1"
   },
   {
     "title": "NVIDIA Begins Mass Production of Blackwell AI Chips",
-    "full": "NVIDIA’s Blackwell architecture has entered mass production in collaboration with TSMC, offering next-generation performance for AI training and inference tasks.\n\nThese chips promise major gains in efficiency and power, signalling a shift in AI hardware capabilities at enterprise scale.",
-    "image": "https://example.com/images/nvidia_blackwell_chips.jpg"
+    "full": "NVIDIA’s Blackwell architecture has entered mass production in collaboration with TSMC, offering next‐generation performance for AI training and inference tasks.\n\nThese chips promise major gains in efficiency and power, signalling a shift in AI hardware capabilities at enterprise scale.",
+    "image": "https://images.unsplash.com/photo-1581093580420-0b2a33f4bae1"
   },
   {
     "title": "Google Gemini Adds Real-Time Voice and Video Capabilities",
     "full": "Google has expanded its Gemini AI model to include real-time voice and video understanding, enabling interactions where users talk to Gemini and show objects or screens through the camera.\n\nThis upgrade strengthens Google’s position in conversational and visual AI experiences.",
-    "image": "https://example.com/images/google_gemini_voice_video.jpg"
+    "image": "https://images.unsplash.com/photo-1584697968415-6448e7a3c637"
   },
   {
-    "title": "Meta Releases Stand-alone AI App Built on Llama 4",
+    "title": "Meta Releases Stand-Alone AI App Built on Llama 4",
     "full": "Meta Platforms has launched a stand-alone AI app based on its Llama 4 model, enabling voice-first interactions across Meta’s social media ecosystem outside Instagram, WhatsApp and Facebook.\n\nThe app includes a custom ‘Discover’ feed where users explore AI-powered use cases shared by the community.",
-    "image": "https://example.com/images/meta_llama4_app.jpg"
+    "image": "https://images.unsplash.com/photo-1581093609784-6e6c1a6761d4"
   },
   {
     "title": "xAI Introduces Grok-Imagine: Text-to-Image & Video Creator",
     "full": "xAI has announced Grok-Imagine, a generative tool that creates both images and videos from text prompts by combining the Grok language model with a visual engine.\n\nEarly access is available and the launch raises implications for creator workflows and content authenticity.",
-    "image": "https://example.com/images/xai_grok_imagine.jpg"
+    "image": "https://images.unsplash.com/photo-1584697969944-8934e3f9c2cd"
   },
   {
     "title": "Runway ML Adds Real-Time Motion Tracking for AI Video Editing",
     "full": "Runway ML’s new update introduces real-time motion tracking powered by AI, allowing creators to edit backgrounds or replace subjects without green screens.\n\nThis positions Runway as a key player in virtual filmmaking and generative video workflows.",
-    "image": "https://example.com/images/runway_ml_motion_tracking.jpg"
+    "image": "https://images.unsplash.com/photo-1581093609430-8b5f3d06e772"
   },
   {
     "title": "Anthropic Releases Claude 3.7 with Enhanced Reasoning Speed",
     "full": "Anthropic has released Claude 3.7, offering faster reasoning, longer context windows and improved document understanding tailored for enterprise use.\n\nDevelopers report up to 40 % faster responses in production environments, marking a notable evolution in large language model performance.",
-    "image": "https://example.com/images/anthropic_claude3_7.jpg"
+    "image": "https://images.unsplash.com/photo-1584697968464-ef8f9d9444b3"
   }
 ]
