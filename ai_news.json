@@ -1,52 +1,27 @@
 [
   {
-    "title": "OpenAI Launches ChatGPT Atlas – AI-Powered Web Browser",
-    "full": "OpenAI has unveiled ChatGPT Atlas, a new AI-powered web browser that enables users to instruct the LLM to browse the internet, summarize web pages, and automate tasks across platforms.\n\nInitially launching on macOS, support for Windows, iOS and Android will follow. The browser integrates deeply with ChatGPT’s reasoning engine to streamline complex workflows.",
-    "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a"
+    "title": "AI the big disruptor: More than 153K U.S. layoffs in October 📉",
+    "full": "According to a new report, more than 153,074 jobs were cut in the U.S. in October alone — the worst October in more than two decades — bringing the total number of layoffs in 2025 past 1 million. Many of these layoffs were explicitly linked to AI and automation. \n\n💡 Example: Over 31,000 of the October job cuts cited AI as a factor, showing companies are replacing routine tasks faster than expected. \n\n⚠️ Why it matters: For creators and job-seekers alike, upskilling in AI-adjacent fields is becoming urgent.",
+    "image": "https://images.pexels.com/photos/5247530/pexels-photo-5247530.jpeg"
   },
   {
-    "title": "Accenture Launches Physical AI Orchestrator for Smart Factories",
-    "full": "Accenture has introduced Physical AI Orchestrator, a cloud solution that combines NVIDIA Omniverse and AI agents to build real‐time digital twins of manufacturing plants.\n\nThe tool enables live simulation of factory operations, predictive maintenance, and autonomous decision‐making at scale in industrial settings.",
-    "image": "https://images.unsplash.com/photo-1581091012184-0b73f15d4e7d"
+    "title": "Google launches October AI round-up including quantum & Gemini upgrades 🔍",
+    "full": "Google’s official blog released a major update: For October, Google revealed key AI advancements — a new quantum algorithm faster than classical supercomputers, Gemini Enterprise becoming the ‘front door’ for Google AI in workspaces, and extended cybersecurity features built with AI. \n\n💡 Example: Google now offers ‘vibe coding’ in AI Studio, making it easier for non-programmers to build AI apps with conversational prompts. \n\n✨ Why it matters: Big tech is not only deploying AI tools but also shifting how everyday users can build with AI and how enterprises scale AI securely. \n\n🔗 Source: Google blog “The latest AI news we announced in October”",
+    "image": "https://images.pexels.com/photos/1181676/pexels-photo-1181676.jpeg"
   },
   {
-    "title": "Adobe Launches Firefly Boards with AI Video Models",
-    "full": "Adobe has launched Firefly Boards globally, offering AI-first collaborative tools for brainstorming, image and video generation using new models from Adobe and partners.\n\nThe platform lets users create multimedia content with generative AI integrated right inside their design workflows.",
-    "image": "https://images.unsplash.com/photo-1584697964193-cadc35de4986"
+    "title": "MIT warns of generative AI’s climate impact 🌱",
+    "full": "MIT researchers published an important report warning that large-scale generative AI training could significantly increase greenhouse-gas emissions unless data-centres adopt more efficient models and cleaner energy sources. \n\n💡 Example: Training one large language model in a conventional carbon-intensive grid could emit emissions equivalent to hundreds of vehicles driving a year. Using model pruning or renewable energy can cut that dramatically. \n\n✨ Why it matters: Sustainability is becoming a core concern in AI development — developers and designers should now consider energy usage, not just model accuracy.",
+    "image": "https://images.pexels.com/photos/3707999/pexels-photo-3707999.jpeg"
   },
   {
-    "title": "Microsoft Integrates Copilot Across Windows 11 and Office Suite",
-    "full": "Microsoft has completed integration of Copilot AI across Windows 11 and the Office productivity suite, allowing users to summarise emails, generate slides and automate Excel workflows natively.\n\nThis unified rollout underscores Microsoft’s broad AI ecosystem strategy and brings powerful AI tools to everyday users.",
-    "image": "https://images.unsplash.com/photo-1581093588401-61fdf0a8b3c1"
+    "title": "Google adds visual search to AI Mode in Search 🧠",
+    "full": "Google announced that its AI Mode in Search now supports advanced visual queries: users can upload an image or take a live photo, ask natural-language questions and receive rich results combining text, visuals and voice feedback. \n\n💡 Example: Upload a photo of an antique vase and ask “What era is this from and where can I buy similar?” — the AI responds with era information plus shopping results. \n\n⚡ Why it matters: Search is shifting from typing to seeing and talking — that change will impact how users interact, and how app developers design search experiences.",
+    "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg"
   },
   {
-    "title": "NVIDIA Begins Mass Production of Blackwell AI Chips",
-    "full": "NVIDIA’s Blackwell architecture has entered mass production in collaboration with TSMC, offering next‐generation performance for AI training and inference tasks.\n\nThese chips promise major gains in efficiency and power, signalling a shift in AI hardware capabilities at enterprise scale.",
-    "image": "https://images.unsplash.com/photo-1581093580420-0b2a33f4bae1"
-  },
-  {
-    "title": "Google Gemini Adds Real-Time Voice and Video Capabilities",
-    "full": "Google has expanded its Gemini AI model to include real-time voice and video understanding, enabling interactions where users talk to Gemini and show objects or screens through the camera.\n\nThis upgrade strengthens Google’s position in conversational and visual AI experiences.",
-    "image": "https://images.unsplash.com/photo-1584697968415-6448e7a3c637"
-  },
-  {
-    "title": "Meta Releases Stand-Alone AI App Built on Llama 4",
-    "full": "Meta Platforms has launched a stand-alone AI app based on its Llama 4 model, enabling voice-first interactions across Meta’s social media ecosystem outside Instagram, WhatsApp and Facebook.\n\nThe app includes a custom ‘Discover’ feed where users explore AI-powered use cases shared by the community.",
-    "image": "https://images.unsplash.com/photo-1581093609784-6e6c1a6761d4"
-  },
-  {
-    "title": "xAI Introduces Grok-Imagine: Text-to-Image & Video Creator",
-    "full": "xAI has announced Grok-Imagine, a generative tool that creates both images and videos from text prompts by combining the Grok language model with a visual engine.\n\nEarly access is available and the launch raises implications for creator workflows and content authenticity.",
-    "image": "https://images.unsplash.com/photo-1584697969944-8934e3f9c2cd"
-  },
-  {
-    "title": "Runway ML Adds Real-Time Motion Tracking for AI Video Editing",
-    "full": "Runway ML’s new update introduces real-time motion tracking powered by AI, allowing creators to edit backgrounds or replace subjects without green screens.\n\nThis positions Runway as a key player in virtual filmmaking and generative video workflows.",
-    "image": "https://images.unsplash.com/photo-1581093609430-8b5f3d06e772"
-  },
-  {
-    "title": "Anthropic Releases Claude 3.7 with Enhanced Reasoning Speed",
-    "full": "Anthropic has released Claude 3.7, offering faster reasoning, longer context windows and improved document understanding tailored for enterprise use.\n\nDevelopers report up to 40 % faster responses in production environments, marking a notable evolution in large language model performance.",
-    "image": "https://images.unsplash.com/photo-1584697968464-ef8f9d9444b3"
+    "title": "Mozilla’s Firefox debates going ‘full AI’ in browser era ⚠️",
+    "full": "Mozilla’s Firefox general manager discussed the future of AI-integrated browsers amid recent launches of AI-native browsers. The question: Will privacy still matter when your browser is an AI assistant that watches, predicts and acts? \n\n💡 Example: OpenAI’s ChatGPT Atlas browser and Microsoft Edge’s Copilot Mode are early signals — the browser could summarise, organise or act on your behalf. \n\n⚠️ Why it matters: For app makers and users, the interface paradigm may shift drastically — from apps to AI-agent browsers, raising new privacy & trust issues.",
+    "image": "https://images.pexels.com/photos/459654/pexels-photo-459654.jpeg"
   }
 ]
