@@ -1,27 +1,27 @@
 [
   {
-    "title": "AI the big disruptor: More than 153K U.S. layoffs in October 📉",
-    "full": "According to a new report, more than 153,074 jobs were cut in the U.S. in October alone — the worst October in more than two decades — bringing the total number of layoffs in 2025 past 1 million. Many of these layoffs were explicitly linked to AI and automation. \n\n💡 Example: Over 31,000 of the October job cuts cited AI as a factor, showing companies are replacing routine tasks faster than expected. \n\n⚠️ Why it matters: For creators and job-seekers alike, upskilling in AI-adjacent fields is becoming urgent.",
-    "image": "https://images.pexels.com/photos/5247530/pexels-photo-5247530.jpeg"
+    "title": "AI Layoffs Surge in Tech Sector 📉",
+    "full": "Over 150,000 layoffs were recorded in October 2025 across major U.S. companies, many citing AI-driven automation as a factor. Experts say this trend highlights the urgent need for reskilling in AI-related fields.",
+    "image": "https://cdn.pixabay.com/photo/2020/03/04/14/44/artificial-intelligence-4904418_640.jpg"
   },
   {
-    "title": "Google launches October AI round-up including quantum & Gemini upgrades 🔍",
-    "full": "Google’s official blog released a major update: For October, Google revealed key AI advancements — a new quantum algorithm faster than classical supercomputers, Gemini Enterprise becoming the ‘front door’ for Google AI in workspaces, and extended cybersecurity features built with AI. \n\n💡 Example: Google now offers ‘vibe coding’ in AI Studio, making it easier for non-programmers to build AI apps with conversational prompts. \n\n✨ Why it matters: Big tech is not only deploying AI tools but also shifting how everyday users can build with AI and how enterprises scale AI securely. \n\n🔗 Source: Google blog “The latest AI news we announced in October”",
-    "image": "https://images.pexels.com/photos/1181676/pexels-photo-1181676.jpeg"
+    "title": "Google Expands Gemini AI Features 🚀",
+    "full": "Google unveiled major upgrades to its Gemini model, integrating deeper Workspace tools and releasing a new AI Studio for easy app prototyping. Gemini Enterprise now powers Docs, Sheets, and Gmail AI assistants.",
+    "image": "https://cdn.pixabay.com/photo/2023/03/06/10/56/ai-7834804_640.jpg"
   },
   {
-    "title": "MIT warns of generative AI’s climate impact 🌱",
-    "full": "MIT researchers published an important report warning that large-scale generative AI training could significantly increase greenhouse-gas emissions unless data-centres adopt more efficient models and cleaner energy sources. \n\n💡 Example: Training one large language model in a conventional carbon-intensive grid could emit emissions equivalent to hundreds of vehicles driving a year. Using model pruning or renewable energy can cut that dramatically. \n\n✨ Why it matters: Sustainability is becoming a core concern in AI development — developers and designers should now consider energy usage, not just model accuracy.",
-    "image": "https://images.pexels.com/photos/3707999/pexels-photo-3707999.jpeg"
+    "title": "MIT Report Warns of AI Energy Impact 🌱",
+    "full": "MIT researchers raised concerns about the rising carbon footprint of large AI models. They urged data centers to use greener energy and model compression to reduce emissions.",
+    "image": "https://cdn.pixabay.com/photo/2022/11/15/10/41/energy-7593591_640.jpg"
   },
   {
-    "title": "Google adds visual search to AI Mode in Search 🧠",
-    "full": "Google announced that its AI Mode in Search now supports advanced visual queries: users can upload an image or take a live photo, ask natural-language questions and receive rich results combining text, visuals and voice feedback. \n\n💡 Example: Upload a photo of an antique vase and ask “What era is this from and where can I buy similar?” — the AI responds with era information plus shopping results. \n\n⚡ Why it matters: Search is shifting from typing to seeing and talking — that change will impact how users interact, and how app developers design search experiences.",
-    "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg"
+    "title": "Google Search Adds Visual AI Mode 🔍",
+    "full": "Google’s AI Mode now supports visual queries. Users can upload an image and ask questions about it, blending image recognition with conversational search.",
+    "image": "https://cdn.pixabay.com/photo/2018/03/01/09/06/technology-3190200_640.jpg"
   },
   {
-    "title": "Mozilla’s Firefox debates going ‘full AI’ in browser era ⚠️",
-    "full": "Mozilla’s Firefox general manager discussed the future of AI-integrated browsers amid recent launches of AI-native browsers. The question: Will privacy still matter when your browser is an AI assistant that watches, predicts and acts? \n\n💡 Example: OpenAI’s ChatGPT Atlas browser and Microsoft Edge’s Copilot Mode are early signals — the browser could summarise, organise or act on your behalf. \n\n⚠️ Why it matters: For app makers and users, the interface paradigm may shift drastically — from apps to AI-agent browsers, raising new privacy & trust issues.",
-    "image": "https://images.pexels.com/photos/459654/pexels-photo-459654.jpeg"
+    "title": "Mozilla Considers AI-Integrated Firefox ⚠️",
+    "full": "Mozilla revealed early plans to integrate responsible AI features into Firefox, focusing on privacy-first automation. The goal is to compete with AI-native browsers like Edge Copilot.",
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/14/00/artificial-intelligence-1837396_640.jpg"
   }
 ]
