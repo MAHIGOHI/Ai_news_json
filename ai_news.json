@@ -1,27 +1,37 @@
 [
   {
-    "title": "AI Layoffs Surge in Tech Sector 📉",
-    "full": "Over 150,000 layoffs were recorded in October 2025 across major U.S. companies, many citing AI-driven automation as a factor. Experts say this trend highlights the urgent need for reskilling in AI-related fields.",
-    "image": "https://cdn.pixabay.com/photo/2020/03/04/14/44/artificial-intelligence-4904418_640.jpg"
+    "title": "AI Layoffs Surge in U.S. Tech Sector 📉",
+    "full": "In October 2025, U.S. companies announced approximately 153,074 layoffs — the worst October in over two decades — largely driven by AI and automation adoption. This brings the 2025 total to over 1 million job cuts. Tech, retail and warehousing sectors were hit hardest. \n\n💡 Example: A major retailer cited AI-driven inventory classification as a key factor in its workforce reduction. \n\n⚠️ Why it matters: The rapid shift means skill-upgrade is urgent — roles traditionally considered “safe” are now vulnerable.",
+    "image": "https://cdn.pixabay.com/photo/2021/04/12/18/46/businessman-6172319_640.png"
   },
   {
-    "title": "Google Expands Gemini AI Features 🚀",
-    "full": "Google unveiled major upgrades to its Gemini model, integrating deeper Workspace tools and releasing a new AI Studio for easy app prototyping. Gemini Enterprise now powers Docs, Sheets, and Gmail AI assistants.",
-    "image": "https://cdn.pixabay.com/photo/2023/03/06/10/56/ai-7834804_640.jpg"
+    "title": "Google Rolls Out October AI Breakthroughs 🔍",
+    "full": "Google’s AI blog revealed major October announcements: Gemini for Home devices, a quantum algorithm out-performing classical supercomputers and enhanced cybersecurity AI tools. These updates integrate AI deeper into everyday life and enterprise systems. \n\n💡 Example: A user tells Gemini Home: “Plan my weekend in Tokyo”, and receives suggested flights, hotels and local experiences in one prompt. \n\n✨ Why it matters: AI is becoming not just a tool but a platform embedded across hardware, software and services.",
+    "image": "https://cdn.pixabay.com/photo/2019/05/10/05/10/laptop-4187000_640.jpg"
   },
   {
-    "title": "MIT Report Warns of AI Energy Impact 🌱",
-    "full": "MIT researchers raised concerns about the rising carbon footprint of large AI models. They urged data centers to use greener energy and model compression to reduce emissions.",
-    "image": "https://cdn.pixabay.com/photo/2022/11/15/10/41/energy-7593591_640.jpg"
+    "title": "MIT Warns of Generative AI’s Rising Energy Footprint 🌱",
+    "full": "Researchers at MIT released a study showing large-scale generative AI training could dramatically increase greenhouse-gas emissions unless data centres switch to cleaner energy and adopt efficient model designs. \n\n💡 Example: Training a single advanced model in a carbon-intense grid may emit as much CO₂ as hundreds of cars over a year. \n\n⚡ Why it matters: Sustainability is becoming central to AI’s future — not just capabilities, but power-cost and climate impact too.",
+    "image": "https://cdn.pixabay.com/photo/2020/04/12/22/34/earth-503050_640.jpg"
   },
   {
-    "title": "Google Search Adds Visual AI Mode 🔍",
-    "full": "Google’s AI Mode now supports visual queries. Users can upload an image and ask questions about it, blending image recognition with conversational search.",
-    "image": "https://cdn.pixabay.com/photo/2018/03/01/09/06/technology-3190200_640.jpg"
+    "title": "OpenAI & AMD Announce 6 GW Compute Deal 🧠",
+    "full": "OpenAI and AMD signed a partnership to deploy up to 6 gigawatts of AI compute-capacity starting in 2026, using AMD’s Instinct chips. This signals a massive infrastructure arms-race in generative AI. \n\n💡 Example: With this compute capacity OpenAI could train models with 10-100x tokens and inference at previously unimaginable scales. \n\n⚡ Why it matters: For developers and tools, where the compute lives matters as much as what the algorithms do.",
+    "image": "https://cdn.pixabay.com/photo/2018/12/27/10/54/graphics-card-3891914_640.jpg"
   },
   {
-    "title": "Mozilla Considers AI-Integrated Firefox ⚠️",
-    "full": "Mozillaa revealed early plans to integrate responsible AI features into Firefox, focusing on privacy-first automation. The goal is to compete with AI-native browsers like Edge Copilot.",
-    "image": "https://cdn.pixabay.com/photo/2016/11/19/14/00/artificial-intelligence-1837396_640.jpg"
+    "title": "Google’s AI Mode Adds Visual Search Features 🕵️‍♂️",
+    "full": "Google’s new AI Mode in Search now supports visual uploads + voice prompts — users can snap a photo, ask a question and receive rich multimedia results combining image, text and voice. \n\n💡 Example: Upload a photo of an artefact and ask “Which era is this from and where can I see similar in brown?” The system returns age, style, purchase links. \n\n✨ Why it matters: Search experience is evolving — from typing keywords to talking and seeing the world around us.",
+    "image": "https://cdn.pixabay.com/photo/2017/08/10/07/02/search-2617361_640.jpg"
+  },
+  {
+    "title": "Mozilla Explores AI-Native Browser Integration ⚠️",
+    "full": "Mozilla is exploring browser integrations with AI-agents focused on privacy-first automation. The goal: enable in-browser AI tasks, but ensure data stays local and transparent. \n\n💡 Example: A browser AI agent summarises a webpage, drafts replies and files forms — with user-control over what it touches. \n\n⚠️ Why it matters: Browsers may become full-fledged AI platforms, shifting how users interact with the web and demanding new trust models.",
+    "image": "https://cdn.pixabay.com/photo/2021/08/27/17/45/monitor-6578018_640.jpg"
+  },
+  {
+    "title": "Australia Mandates AI Chatbot Firms to Disclose Safety Protocols 👶",
+    "full": "Australia’s eSafety Commissioner ordered major AI-chatbot providers to disclose how they protect minors from harmful content and how they moderate conversations. Firms must submit vulnerability-reports or face regulatory action. \n\n💡 Example: A chatbot interacting with teens must show audit trails, escalate sensitive topics to humans, and provide transparency to parents. \n\n⚠️ Why it matters: Regulation around generative AI is tightening — user-facing tools will soon need built-in safety and transparency by default.",
+    "image": "https://cdn.pixabay.com/photo/2023/01/06/16/35/kids-7701069_640.jpg"
   }
 ]
