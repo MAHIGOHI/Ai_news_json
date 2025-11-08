@@ -1,37 +1,37 @@
 [
   {
     "title": "AI Layoffs Surge in Tech Sector 📉",
-    "full": "Over 150,000 layoffs were recorded in October 2025 across major U.S. firms, many citing AI-driven automation as a reason. Analysts predict similar restructuring in 2026 as AI scales rapidly across departments.",
-    "image": "https://images.unsplash.com/photo-1581091215367-59ab6b66d6f3?auto=format&fit=crop&w=640&q=60"
+    "full": "Over 150,000 layoffs were recorded in October 2025 as AI-driven automation reshaped U.S. companies. Analysts predict more restructuring as AI adoption accelerates globally.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Artificial_Intelligence_%26_Machine_Learning.jpg"
   },
   {
-    "title": "Google Expands Gemini AI Capabilities 🚀",
-    "full": "Google has integrated its Gemini AI deeper into Workspace and Android. The new update allows contextual writing, live meeting summarization, and instant spreadsheet automation across devices.",
-    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=640&q=60"
+    "title": "Google Expands Gemini AI Across Devices 🚀",
+    "full": "Google rolled out new Gemini integrations in Gmail, Docs and Android, enabling smart summaries, contextual suggestions and live meeting notes directly from your device.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Google_Gemini_logo.png"
   },
   {
-    "title": "OpenAI & AMD Announce Massive Compute Expansion ⚙️",
-    "full": "OpenAI partnered with AMD to scale its AI infrastructure up to 6 GW compute capacity. This will drastically reduce latency for GPT models and enable more complex reasoning tasks.",
-    "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?auto=format&fit=crop&w=640&q=60"
+    "title": "OpenAI & AMD Announce Massive Compute Partnership ⚙️",
+    "full": "OpenAI partnered with AMD to deploy 6 GW of compute infrastructure using Instinct MI450 chips — expanding GPT capabilities and reducing model latency worldwide.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/AMD_Radeon_logo.png"
   },
   {
-    "title": "MIT Warns of AI’s Growing Energy Use 🌱",
-    "full": "MIT researchers highlighted the carbon impact of training large AI models and urged cloud providers to switch to renewable energy. The report notes AI could consume 10x more electricity by 2030.",
-    "image": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=640&q=60"
+    "title": "MIT Warns of AI’s Energy Consumption 🌱",
+    "full": "MIT researchers revealed that AI training could soon account for 10× current data-centre energy use, urging tech giants to switch to renewable power sources.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Artificial_Intelligence_Chip.jpg"
   },
   {
-    "title": "Australia Mandates Chatbot Safety Compliance 🧒",
-    "full": "Australia’s eSafety Commissioner has ordered chatbot developers to file safety and moderation reports. The rule targets child-safety and privacy for conversational AI tools.",
-    "image": "https://images.unsplash.com/photo-1603791452906-bbb20b6b5532?auto=format&fit=crop&w=640&q=60"
+    "title": "Australia Enforces Chatbot Safety Rules 🧒",
+    "full": "Australia’s eSafety Commissioner now requires all chatbot providers to report moderation systems, ensuring protection for minors and sensitive users.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/AI_Chatbot_Illustration.jpg"
   },
   {
-    "title": "Mozilla Tests AI-Powered Browser Features ⚠️",
-    "full": "Mozilla revealed it is testing an AI-native Firefox variant that summarizes pages, fills forms, and translates contextually — all while preserving user privacy.",
-    "image": "https://images.unsplash.com/photo-1556157382-97eda2f9e2bf?auto=format&fit=crop&w=640&q=60"
+    "title": "Mozilla Tests AI-Native Firefox ⚠️",
+    "full": "Mozilla announced trials of an AI-native Firefox that summarizes webpages, translates content, and manages forms automatically — while preserving privacy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mozilla_Firefox_Logo%2C_2019.svg"
   },
   {
-    "title": "Google’s Visual AI Search Goes Global 🔍",
-    "full": "Users can now snap a photo and ask questions about it using Google's AI Search. The update merges Lens, Gemini, and Search into one unified multimodal experience.",
-    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=640&q=60"
+    "title": "Google’s Visual AI Search Launches Globally 🔍",
+    "full": "Google launched global support for its Visual AI Search — letting users snap or upload an image, ask a question and receive multimodal answers instantly.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Lens_Icon.png"
   }
 ]
