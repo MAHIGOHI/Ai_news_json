@@ -1,37 +1,52 @@
 [
   {
-    "title": "AI Layoffs Surge in Tech Sector 📉",
-    "full": "Over 150,000 layoffs were recorded in October 2025 as AI-driven automation reshaped U.S. companies. Analysts predict more restructuring as AI adoption accelerates globally.",
-    "image": "https://i.ibb.co/35PvB1sP/74573be8-f4ac-4602-81ed-4f4cdecf677f.jpg"
+    "title": "OpenAI Launched GPT-5.1",
+    "full": "OpenAI rolled out its upgraded GPT-5.1 models — Instant and Thinking — offering more intelligent, conversational, and personalized interactions. The update includes new personality presets and better instruction following.",
+    "image": "https://cdn.pixabay.com/photo/2017/01/31/13/14/artificial-intelligence-2025786_1280.jpg"
   },
   {
-    "title": "Google Expands Gemini AI Across Devices 🚀",
-    "full": "Google rolled out new Gemini integrations in Gmail, Docs and Android, enabling smart summaries, contextual suggestions and live meeting notes directly from your device.",
-    "image": "https://i.ibb.co/20kVR1wR/abb.jpg"
+    "title": "AI Orchestrated Cyberattack",
+    "full": "Anthropic revealed that Chinese state-sponsored hackers used its Claude AI system in the first known large-scale autonomous cyber-espionage campaign, targeting 30 organizations with minimal human involvement.",
+    "image": "https://cdn.pixabay.com/photo/2016/12/28/09/36/cyber-security-1932923_1280.jpg"
   },
   {
-    "title": "OpenAI & AMD Announce Massive Compute Partnership ⚙️",
-    "full": "OpenAI partnered with AMD to deploy 6 GW of compute infrastructure using Instinct MI450 chips — expanding GPT capabilities and reducing model latency worldwide.",
-    "image": "https://i.ibb.co/qMM97sHQ/corporate-1.webp"
+    "title": "Baidu Unveils New AI Chips",
+    "full": "Baidu announced two new AI processors — M100 and M300 — along with an upgraded Ernie LLM capable of advanced image and video analysis, aiming for technological self-reliance amid US export restrictions.",
+    "image": "https://cdn.pixabay.com/photo/2016/12/29/01/13/chip-1932761_1280.jpg"
   },
   {
-    "title": "MIT Warns of AI’s Energy Consumption 🌱",
-    "full": "MIT researchers revealed that AI training could soon account for 10× current data-centre energy use, urging tech giants to switch to renewable power sources.",
-    "image": "https://i.ibb.co/Y4cC7tLD/vv.jpg"
+    "title": "Google’s Biggest Shopping AI Upgrade",
+    "full": "Google rolled out a major enhancement to its AI Mode in Search for shopping, delivering more robust, intelligent, and streamlined shopping experiences.",
+    "image": "https://cdn.pixabay.com/photo/2017/02/26/06/59/google-2099048_1280.jpg"
   },
   {
-    "title": "Australia Enforces Chatbot Safety Rules 🧒",
-    "full": "Australia’s eSafety Commissioner now requires all chatbot providers to report moderation systems, ensuring protection for minors and sensitive users.",
-    "image": "https://i.ibb.co/MysWrCCW/ttv.jpg"
+    "title": "Samsung’s $310B AI Investment",
+    "full": "Samsung announced a massive $310 billion expansion involving new chip plants and data centers, accelerating its push into AI infrastructure and next-gen hardware.",
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/03/53/samsung-1862926_1280.jpg"
   },
   {
-    "title": "Mozilla Tests AI-Native Firefox ⚠️",
-    "full": "Mozilla announced trials of an AI-native Firefox that summarizes webpages, translates content, and manages forms automatically — while preserving privacy.",
-    "image": "https://i.ibb.co/JRYbYXBt/mmm.png"
+    "title": "AI in Cyber Defense",
+    "full": "Following the Chinese cyberattack, Anthropic stressed the need for AI-driven cyber defense mechanisms to counter the rising risks posed by autonomous attack systems.",
+    "image": "https://cdn.pixabay.com/photo/2018/04/17/18/39/cyber-security-3326978_1280.jpg"
   },
   {
-    "title": "Google’s Visual AI Search Launches Globally 🔍",
-    "full": "Google launched global support for its Visual AI Search — letting users snap or upload an image, ask a question and receive multimodal answers instantly.",
-    "image": "https://i.ibb.co/qMXS1yHZ/uuu.jpg"
+    "title": "PwC Global AI Jobs Barometer",
+    "full": "A new PwC report revealed that AI is making workers more valuable, even in highly automatable roles, influencing global job trends and critical skill demands.",
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/05/56/chart-1863885_1280.jpg"
+  },
+  {
+    "title": "IBM Warns About Data Silos",
+    "full": "IBM highlighted that data silos continue to slow down enterprise AI adoption, stressing the need for unified and accessible data systems.",
+    "image": "https://cdn.pixabay.com/photo/2017/05/31/14/56/ibm-2361049_1280.jpg"
+  },
+  {
+    "title": "OpenAI Testing Group Chats",
+    "full": "OpenAI began testing a new group chat system for ChatGPT that lets up to 20 people collaborate with each other and the AI simultaneously.",
+    "image": "https://cdn.pixabay.com/photo/2017/08/06/22/01/chat-2596641_1280.jpg"
+  },
+  {
+    "title": "Indian Firms Scaling GenAI",
+    "full": "Reports show Indian companies expanding Generative AI deployments, though cautious budgets are slowing larger-scale investments.",
+    "image": "https://cdn.pixabay.com/photo/2014/04/03/10/32/business-309088_1280.png"
   }
 ]
