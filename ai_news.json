@@ -1,52 +1,37 @@
 [
   {
-    "title": "OpenAI Launched GPT-5.1",
-    "full": "OpenAI rolled out its upgraded GPT-5.1 models — Instant and Thinking — offering more intelligent, conversational, and personalized interactions. The update includes new personality presets and better instruction following.",
-    "image": "https://i.ibb.co/N61R0Tf7/Open-AI-Rolls-Out-GPT-5-1-A-More-Human-Smarter-and-Faster-Chat-GPT.jpg"
+    "title": "Google Unveils Gemini Nano 2 for Faster On-Device AI ⚡",
+    "full": "Google expanded its on-device AI lineup with Gemini Nano 2 — designed for ultra-fast offline processing on mid-range smartphones. The update includes improved summarization, voice-reply generation and instant translation without Internet.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%28September_2014%29.svg"
   },
   {
-    "title": "AI Orchestrated Cyberattack",
-    "full": "Anthropic revealed that Chinese state-sponsored hackers used its Claude AI system in the first known large-scale autonomous cyber-espionage campaign, targeting 30 organizations with minimal human involvement.",
-    "image": "https://i.ibb.co/MDBswwZb/c3d2534b-0efb-4bcc-be55-c1140f26f03a.jpg"
+    "title": "Gemini Nano Banana Pro Introduced for Developers 🍌🤖",
+    "full": "Google’s new experimental Nano Banana Pro model gives developers better on-device AI capabilities. It offers enhanced speech processing, local reasoning and image-understanding on lightweight hardware. Ideal for mobile AI apps.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Developers_logo.png"
   },
   {
-    "title": "Baidu Unveils New AI Chips",
-    "full": "Baidu announced two new AI processors — M100 and M300 — along with an upgraded Ernie LLM capable of advanced image and video analysis, aiming for technological self-reliance amid US export restrictions.",
-    "image": "https://i.ibb.co/pjhzd2mQ/unnamed.jpg"
+    "title": "Microsoft Tests New Copilot Update for Windows 11 🧠",
+    "full": "Microsoft is preparing a major Copilot upgrade bringing better system control, smarter file search and app-level assistance. The update improves voice commands and reduces response latency.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"
   },
   {
-    "title": "Google’s Biggest Shopping AI Upgrade",
-    "full": "Google rolled out a major enhancement to its AI Mode in Search for shopping, delivering more robust, intelligent, and streamlined shopping experiences.",
-    "image": "https://i.ibb.co/xqZq49Gv/unnamed-1.jpg"
+    "title": "OpenAI Internal GPT-5 Improvements Leak 🔬",
+    "full": "Internal reports show early GPT-5 tests improving multi-step reasoning, long-context memory and accuracy. Researchers are focusing on reducing hallucinations across creative and analytical tasks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg"
   },
   {
-    "title": "Samsung’s $310B AI Investment",
-    "full": "Samsung announced a massive $310 billion expansion involving new chip plants and data centers, accelerating its push into AI infrastructure and next-gen hardware.",
-    "image": "https://i.ibb.co/zH0w9PJG/unnamed-2.jpg"
+    "title": "Amazon Expands On-Device AI for Alexa & Echo 📱",
+    "full": "Amazon announced lightweight on-device AI models for Echo devices, reducing cloud dependency and boosting response speed. This makes Alexa faster and more privacy-friendly.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
   },
   {
-    "title": "AI in Cyber Defense",
-    "full": "Following the Chinese cyberattack, Anthropic stressed the need for AI-driven cyber defense mechanisms to counter the rising risks posed by autonomous attack systems.",
-    "image": "https://i.ibb.co/84rYgRzh/unnamed-3.jpg"
+    "title": "Meta Updates AI Safety Filters for Public Tools 🔐",
+    "full": "Meta rolled out upgraded moderation filters to detect unsafe prompts and misleading generated images. These new systems aim to improve user safety across Facebook and Instagram AI tools.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Meta_Platforms_Inc._logo.svg"
   },
   {
-    "title": "PwC Global AI Jobs Barometer",
-    "full": "A new PwC report revealed that AI is making workers more valuable, even in highly automatable roles, influencing global job trends and critical skill demands.",
-    "image": "https://i.ibb.co/tMDjFXkX/images.jpg"
-  },
-  {
-    "title": "IBM Warns About Data Silos",
-    "full": "IBM highlighted that data silos continue to slow down enterprise AI adoption, stressing the need for unified and accessible data systems.",
-    "image": "https://i.ibb.co/tTxwp5fr/images-1.jpg"
-  },
-  {
-    "title": "OpenAI Testing Group Chats",
-    "full": "OpenAI began testing a new group chat system for ChatGPT that lets up to 20 people collaborate with each other and the AI simultaneously.",
-    "image": "https://i.ibb.co/wZZtwCWT/Group-chats-in-Chat-GPT.jpg"
-  },
-  {
-    "title": "Indian Firms Scaling GenAI",
-    "full": "Reports show Indian companies expanding Generative AI deployments, though cautious budgets are slowing larger-scale investments.",
-    "image": "https://i.ibb.co/LXjkp1Yh/images-2.jpg"
+    "title": "Anthropic Launches Claude Mini for Mobile Devices 📱",
+    "full": "Anthropic released a faster and lighter Claude Mini model optimized for mobile usage. It offers strong writing, reasoning and chatbot abilities while consuming minimal power.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Anthropic_logo.png"
   }
 ]
