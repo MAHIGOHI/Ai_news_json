@@ -1,52 +1,52 @@
 [
   {
-    "title": "U.S. Patent Office Updates Rules for AI-Assisted Inventions 🧑‍🔬",
-    "full": "The U.S. Patent and Trademark Office issued fresh guidelines stating that AI cannot be listed as an inventor—even when AI contributes heavily to an invention. Only humans can be credited.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/USPTO_Seal.png"
+    "title": "Google Expands Gemini Nano for On-Device AI 📱",
+    "full": "Google expanded Gemini Nano for on-device AI tasks such as smart replies, offline summarization, and voice assistance. The focus is faster processing without internet dependency.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Developers_logo.png"
   },
   {
-    "title": "HP Announces 4,000–6,000 Job Cuts Due to AI Restructuring 💼",
-    "full": "HP revealed a major restructuring plan driven by AI automation. Between 4,000 and 6,000 jobs will be eliminated globally as workflows are optimized using AI.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Hewlett_Packard_logo.svg"
+    "title": "OpenAI Tests Improved Reasoning Models 🧠",
+    "full": "OpenAI has begun testing improved reasoning-focused models internally. These updates aim to reduce hallucinations and improve multi-step problem solving.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg"
   },
   {
-    "title": "OpenAI & AMD Expand Multi-Gigawatt Compute Deal ⚙️",
-    "full": "OpenAI and AMD confirmed plans to deploy several gigawatts of AI compute infrastructure using Instinct chips, boosting the performance of future GPT models.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/AMD_Radeon_logo.png"
+    "title": "Microsoft Copilot Gets Deeper Windows Integration 🪟",
+    "full": "Microsoft rolled out deeper Copilot integration across Windows apps, enabling smarter file search, task automation, and contextual help inside the OS.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"
   },
   {
-    "title": "Small AI Model Beats Large LLMs on Logic Puzzles 🧠",
-    "full": "A lightweight research AI model surprisingly outperformed bigger LLMs on the ARC-AGI benchmark, proving optimized small models can sometimes beat heavy architectures.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Neural_network.svg"
+    "title": "Meta Improves AI Safety Filters Across Platforms 🔐",
+    "full": "Meta announced enhanced AI moderation systems to detect harmful prompts and misleading generated content on Facebook and Instagram.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Meta_Platforms_Inc._logo.svg"
   },
   {
-    "title": "IBM Warns Data Silos Are Blocking AI Adoption 🏢",
-    "full": "IBM reported that enterprise AI systems are failing—not because of weak models—but due to deeply fragmented data silos across departments.",
+    "title": "Amazon Pushes Lightweight AI Models for Alexa ⚡",
+    "full": "Amazon introduced lightweight AI models for Alexa that run locally on devices, reducing cloud dependency and improving response speed.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
+  },
+  {
+    "title": "NVIDIA Reveals Next-Gen AI Video Research 🎥",
+    "full": "NVIDIA researchers showcased new AI systems capable of generating short realistic videos from text prompts with improved motion consistency.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/21/Nvidia_logo.svg"
+  },
+  {
+    "title": "Anthropic Releases Faster Claude Mini Model 🚀",
+    "full": "Anthropic released a faster Claude Mini model optimized for mobile and low-compute environments while maintaining strong reasoning performance.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Anthropic_logo.png"
+  },
+  {
+    "title": "IBM Warns Data Quality Is Blocking AI Growth 📊",
+    "full": "IBM reported that poor data quality and silos remain the biggest obstacles preventing companies from successfully scaling AI solutions.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"
   },
   {
-    "title": "DeepSeek (China) Launches New Open-Source AI Model 🌏",
-    "full": "China’s DeepSeek launched a powerful open-source AI model that rivals Western LLMs while being cheaper and faster to deploy.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Deep_Learning.jpg"
+    "title": "AI Adoption Accelerates Job Role Transformation 🔄",
+    "full": "Reports show AI adoption is rapidly transforming job roles, with companies prioritizing automation while increasing demand for AI-skilled workers.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Artificial_Intelligence_Icon.png"
   },
   {
-    "title": "Australia Orders Chatbot Companies to Disclose Child Safety Protocols 👶",
-    "full": "Australia’s eSafety authority now requires chatbot platforms to show transparent moderation and child-protection systems.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/AI_Chatbot_Illustration.jpg"
-  },
-  {
-    "title": "Quantum + AI Hybrid Models Show Big Speed Improvements ⚛️",
-    "full": "A new hybrid approach combining quantum-computing techniques with neural networks has shown promising speed-ups in optimization tasks.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Quantum_Computer.jpg"
-  },
-  {
-    "title": "AI-Driven EEG System Can Detect Dementia Early 🧪",
-    "full": "Researchers developed an AI tool that analyzes EEG signals to detect dementia early with high accuracy, improving diagnosis timelines.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/EEG_cap.jpg"
-  },
-  {
-    "title": "Global AI Infrastructure Spending Nears $300B 💹",
-    "full": "A new industry report revealed global AI infrastructure investment is approaching $300 billion—driven by chip demand, data centers, and cloud AI.",
+    "title": "Global AI Infrastructure Spending Continues to Rise 💹",
+    "full": "Global spending on AI infrastructure such as data centers, chips, and cloud services continued to rise sharply over the past 10 days.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Data_center_with_cabinets.jpg"
   }
 ]
