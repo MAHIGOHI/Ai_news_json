@@ -1,27 +1,52 @@
 [
   {
-    "title": "Artery Forceps",
-    "full": "Used to clamp blood vessels and control bleeding during surgical procedures.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Artery_forceps.jpg"
+    "title": "Google Expands Gemini Nano for On-Device AI 📱",
+    "full": "Google expanded Gemini Nano for on-device AI features such as smart replies, offline summarization, and voice assistance. The focus is faster performance without internet dependency.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Hq5y8xN5YkZKzZrO5qH3Yk9XxwA6u8d9gA&s"
   },
   {
-    "title": "Needle Holder",
-    "full": "Used to hold and drive suture needles while suturing tissue.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Needle_holder_surgical.jpg"
+    "title": "OpenAI Tests Improved Reasoning Models 🧠",
+    "full": "OpenAI has started internal testing of improved reasoning-focused AI models designed to reduce hallucinations and improve multi-step problem solving accuracy.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5xY3m0FJ0eU6X0Z9l0Q9mGmN5B0W8x7Y8Q&s"
   },
   {
-    "title": "Scalpel Handle",
-    "full": "Used to hold surgical blades for making precise surgical incisions.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Scalpel_handle_no._3.jpg"
+    "title": "Microsoft Copilot Gets Deeper Windows Integration 🪟",
+    "full": "Microsoft rolled out deeper Copilot integration across Windows 11 apps, enabling smarter file search, automation, and contextual AI assistance inside the OS.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz0R1kqQX4Y7xQ7PpM4pFZ5xH6F1Jk0m8mA&s"
   },
   {
-    "title": "Bone Holding Forceps",
-    "full": "Used to grasp and stabilize bone fragments during orthopedic surgery.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bone_holding_forceps_orthopedic.jpg"
+    "title": "Meta Improves AI Safety and Content Filters 🔐",
+    "full": "Meta announced new AI safety systems to better detect harmful prompts, deepfakes, and misleading AI-generated content across its platforms.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr0g0P0Yk1Kp7Zy6pW9Ck9c1vN5YB6Zc0Hw&s"
   },
   {
-    "title": "Surgical Retractor",
-    "full": "Used to hold back tissue and improve visibility in the surgical field.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Surgical_retractor_instrument.jpg"
+    "title": "Amazon Pushes Lightweight AI Models for Alexa ⚡",
+    "full": "Amazon introduced lightweight AI models that run locally on Alexa devices, reducing cloud usage and delivering faster, privacy-friendly responses.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7wM8x9y1GxN8Qn9Q5ZkQpM7R8YF3s8V5Eg&s"
+  },
+  {
+    "title": "NVIDIA Reveals New AI Video Generation Research 🎥",
+    "full": "NVIDIA researchers showcased new AI systems capable of generating realistic short videos from text prompts with better motion consistency.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqK4YxZyXz9WJ2GkKQk9Q9mFZQ8M6m8YzqQ&s"
+  },
+  {
+    "title": "Anthropic Launches Faster Claude Mini 🚀",
+    "full": "Anthropic released a faster and more efficient Claude Mini model optimized for mobile and low-power devices while keeping strong reasoning abilities.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8X4Y3mFZk8RkQ9Z7P9Q2FZ3m9QKk8Y7P4Q&s"
+  },
+  {
+    "title": "IBM Says Data Quality Is Blocking AI Growth 📊",
+    "full": "IBM warned that poor data quality and siloed systems are the biggest barriers preventing companies from scaling AI effectively.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGQmN9KZ8PZ4F0KkZ7mZ6Y8QKXQ5RZ8W9pA&s"
+  },
+  {
+    "title": "AI Adoption Rapidly Transforms Job Roles 🔄",
+    "full": "New reports show AI adoption is rapidly changing job roles worldwide, increasing demand for AI-skilled professionals while automating routine work.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Y9QkZxM7R0QmZP9k8FQ5ZKxX8Y9ZQ8GxA&s"
+  },
+  {
+    "title": "Global AI Infrastructure Investment Keeps Rising 💹",
+    "full": "Global investment in AI infrastructure including data centers, chips, and cloud platforms continued to rise sharply over the past 10 days.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ0ZP8QXkF5K9Y8QkMZ7Q9FZ5X8RZ9Y8GkA&s"
   }
 ]
