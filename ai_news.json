@@ -1,27 +1,27 @@
 [
   {
     "title": "Artery Forceps",
-    "full": "Used to clamp blood vessels and control bleeding during surgery.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Hemostat.jpg"
+    "full": "Used to clamp blood vessels and control bleeding during surgical procedures.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Artery_forceps.jpg"
   },
   {
     "title": "Needle Holder",
-    "full": "Used to hold and guide suture needles while suturing tissue.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Needle_holder.jpg"
+    "full": "Used to hold and drive suture needles while suturing tissue.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Needle_holder_surgical.jpg"
   },
   {
     "title": "Scalpel Handle",
-    "full": "Used to hold surgical blades for making precise incisions.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Scalpel_handles.jpg"
+    "full": "Used to hold surgical blades for making precise surgical incisions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Scalpel_handle_no._3.jpg"
   },
   {
     "title": "Bone Holding Forceps",
-    "full": "Used to hold and stabilize bone fragments during orthopedic procedures.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bone_holding_forceps.jpg"
+    "full": "Used to grasp and stabilize bone fragments during orthopedic surgery.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bone_holding_forceps_orthopedic.jpg"
   },
   {
-    "title": "Retractor",
-    "full": "Used to retract tissue and provide better visibility during surgery.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Surgical_retractor.jpg"
+    "title": "Surgical Retractor",
+    "full": "Used to hold back tissue and improve visibility in the surgical field.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Surgical_retractor_instrument.jpg"
   }
 ]
