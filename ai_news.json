@@ -1,52 +1,52 @@
 [
   {
-    "title": "Google Expands Gemini Nano for On-Device AI 📱",
-    "full": "Google expanded Gemini Nano for on-device AI features such as smart replies, offline summarization, and voice assistance. The focus is faster performance without internet dependency.",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Hq5y8xN5YkZKzZrO5qH3Yk9XxwA6u8d9gA&s"
+    "title": "Google Gemini Nano Gets Major On-Device Upgrade 📱",
+    "full": "Google rolled out major improvements to Gemini Nano, enabling faster on-device AI tasks like smart replies, offline summarization, and voice processing without internet dependency.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1kqY6Gm7b1WkQZP7ZrR8pNnM4y2m8Jt9FQ&s"
   },
   {
-    "title": "OpenAI Tests Improved Reasoning Models 🧠",
-    "full": "OpenAI has started internal testing of improved reasoning-focused AI models designed to reduce hallucinations and improve multi-step problem solving accuracy.",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5xY3m0FJ0eU6X0Z9l0Q9mGmN5B0W8x7Y8Q&s"
+    "title": "OpenAI Tests Advanced Reasoning Models Internally 🧠",
+    "full": "OpenAI has started internal testing of new reasoning-focused AI models aimed at reducing hallucinations and improving multi-step logical problem solving.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0QkZ7mP9QyRZ8X2N6F9kJ3B8Y9ZP0mA3Bw&s"
   },
   {
-    "title": "Microsoft Copilot Gets Deeper Windows Integration 🪟",
-    "full": "Microsoft rolled out deeper Copilot integration across Windows 11 apps, enabling smarter file search, automation, and contextual AI assistance inside the OS.",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz0R1kqQX4Y7xQ7PpM4pFZ5xH6F1Jk0m8mA&s"
+    "title": "Microsoft Copilot Expands Across Windows 11 🪟",
+    "full": "Microsoft expanded Copilot integration across Windows 11 apps, allowing AI-powered file search, task automation, and contextual assistance directly inside the operating system.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8QpFZk6Q5M8ZKkY7R9FQ6mZP0X5mYkQ2hQ&s"
   },
   {
-    "title": "Meta Improves AI Safety and Content Filters 🔐",
-    "full": "Meta announced new AI safety systems to better detect harmful prompts, deepfakes, and misleading AI-generated content across its platforms.",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr0g0P0Yk1Kp7Zy6pW9Ck9c1vN5YB6Zc0Hw&s"
+    "title": "Meta Strengthens AI Safety to Fight Deepfakes 🔐",
+    "full": "Meta introduced new AI safety systems to detect deepfakes, misleading images, and harmful prompts across Facebook and Instagram platforms.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Q8ZKk5R9mQY7F8XK6PZkM4mY2ZQ0P7sVw&s"
   },
   {
-    "title": "Amazon Pushes Lightweight AI Models for Alexa ⚡",
-    "full": "Amazon introduced lightweight AI models that run locally on Alexa devices, reducing cloud usage and delivering faster, privacy-friendly responses.",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7wM8x9y1GxN8Qn9Q5ZkQpM7R8YF3s8V5Eg&s"
+    "title": "Amazon Brings Faster On-Device AI to Alexa ⚡",
+    "full": "Amazon launched lightweight on-device AI models for Alexa, reducing cloud reliance and delivering faster, more privacy-friendly responses on Echo devices.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ZP0kM7YQ8Rk6FQZ5X2m8P9Z0R6Qk7M9FA&s"
   },
   {
-    "title": "NVIDIA Reveals New AI Video Generation Research 🎥",
-    "full": "NVIDIA researchers showcased new AI systems capable of generating realistic short videos from text prompts with better motion consistency.",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqK4YxZyXz9WJ2GkKQk9Q9mFZQ8M6m8YzqQ&s"
+    "title": "NVIDIA Reveals Next-Gen AI Video Generation 🎥",
+    "full": "NVIDIA researchers showcased new AI technology capable of generating short realistic videos from text prompts with smoother motion and higher accuracy.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ZQ9Rk5F8Y0P6mQX2ZkM8R9YQ0F7P5X9FA&s"
   },
   {
-    "title": "Anthropic Launches Faster Claude Mini 🚀",
-    "full": "Anthropic released a faster and more efficient Claude Mini model optimized for mobile and low-power devices while keeping strong reasoning abilities.",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8X4Y3mFZk8RkQ9Z7P9Q2FZ3m9QKk8Y7P4Q&s"
+    "title": "Claude Mini Gains Popularity for Mobile AI 🚀",
+    "full": "Anthropic’s Claude Mini model gained attention for delivering fast AI responses on mobile devices while consuming significantly less power.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFZk8R6Q9P0m7Y2X5ZQkM8F9R0P6YQ7sVFA&s"
   },
   {
-    "title": "IBM Says Data Quality Is Blocking AI Growth 📊",
-    "full": "IBM warned that poor data quality and siloed systems are the biggest barriers preventing companies from scaling AI effectively.",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGQmN9KZ8PZ4F0KkZ7mZ6Y8QKXQ5RZ8W9pA&s"
+    "title": "AI Job Automation Sparks Global Debate 🔄",
+    "full": "AI-driven automation continued to reshape job roles worldwide, increasing demand for AI-skilled professionals while automating repetitive tasks.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0M8Q7ZkF5P9Y2X6RkQZ8mP0FQ7Z5M9sFA&s"
   },
   {
-    "title": "AI Adoption Rapidly Transforms Job Roles 🔄",
-    "full": "New reports show AI adoption is rapidly changing job roles worldwide, increasing demand for AI-skilled professionals while automating routine work.",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Y9QkZxM7R0QmZP9k8FQ5ZKxX8Y9ZQ8GxA&s"
+    "title": "IBM Says Data Quality Is the Biggest AI Barrier 📊",
+    "full": "IBM reported that poor data quality and siloed systems remain the biggest challenges preventing companies from successfully scaling AI solutions.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Zk8FQ7Y5P9M6X0RkQZ8F0M9Q7P6sVFA&s"
   },
   {
     "title": "Global AI Infrastructure Investment Keeps Rising 💹",
-    "full": "Global investment in AI infrastructure including data centers, chips, and cloud platforms continued to rise sharply over the past 10 days.",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ0ZP8QXkF5K9Y8QkMZ7Q9FZ5X8RZ9Y8GkA&s"
+    "full": "Global investment in AI infrastructure—including data centers, chips, and cloud platforms—continued to surge over the last 10 days, showing no signs of slowing down.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZP9QkM7F5R6X2YQ0kZ8M9FQ7P5sVFA&s"
   }
 ]
