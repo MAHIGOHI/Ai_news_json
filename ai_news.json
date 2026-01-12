@@ -1,42 +1,42 @@
 [
   {
-    "title": "Google Gemini Nano Gets Faster On-Device AI 📱",
-    "full": "Google upgraded Gemini Nano to improve on-device AI features like smart replies, offline summaries, and voice processing without internet usage.",
-    "image": "https://i.imgur.com/8Km9tLL.jpg"
+    "title": "Google Improves Gemini Nano for Faster On-Device AI",
+    "full": "Google released new improvements to Gemini Nano focused on faster on-device processing.\n\nThe update enhances smart replies, offline summarization, and voice handling without sending data to cloud servers.\n\nThis makes Gemini Nano more useful on mid-range Android phones where performance and privacy matter."
   },
   {
-    "title": "OpenAI Tests Advanced Reasoning Models 🧠",
-    "full": "OpenAI is internally testing new reasoning-focused AI models designed to reduce hallucinations and improve multi-step logical accuracy.",
-    "image": "https://i.imgur.com/Y4G6K9T.jpg"
+    "title": "OpenAI Tests New Accuracy-Focused Reasoning Models",
+    "full": "OpenAI has started testing new internal models that focus on reasoning accuracy rather than creativity alone.\n\nThese models aim to reduce hallucinations and improve step-by-step logical answers.\n\nThe move reflects growing demand for reliable AI in research, coding, and decision-making tasks."
   },
   {
-    "title": "Microsoft Expands Copilot Across Windows 11 🪟",
-    "full": "Microsoft expanded Copilot integration across Windows 11 apps, enabling smarter automation, file search, and contextual AI assistance.",
-    "image": "https://i.imgur.com/2RkFZ8A.jpg"
+    "title": "Microsoft Expands Copilot Features Inside Windows Apps",
+    "full": "Microsoft rolled out deeper Copilot integration across Windows system apps.\n\nUsers can now perform smarter searches, summarize files, and automate tasks directly within Windows 11.\n\nThis update pushes Copilot closer to being a core operating system assistant."
   },
   {
-    "title": "Meta Strengthens AI Safety to Fight Deepfakes 🔐",
-    "full": "Meta introduced upgraded AI safety systems to detect deepfakes and misleading AI-generated content across its platforms.",
-    "image": "https://i.imgur.com/Jk8Q0vB.jpg"
+    "title": "Meta Updates AI Safety Systems to Control Harmful Content",
+    "full": "Meta announced upgrades to its AI safety and moderation systems.\n\nThe update improves detection of deepfakes, misleading AI-generated images, and unsafe prompts.\n\nMeta says these changes are designed to protect users as generative AI usage grows rapidly."
   },
   {
-    "title": "Amazon Brings Faster On-Device AI to Alexa ⚡",
-    "full": "Amazon launched lightweight on-device AI models for Alexa, reducing cloud dependency and delivering faster responses.",
-    "image": "https://i.imgur.com/8Km9tLL.jpg"
+    "title": "Amazon Shifts More Alexa Features to On-Device AI",
+    "full": "Amazon introduced new on-device AI processing for Alexa-powered devices.\n\nThis reduces cloud dependency, improves response speed, and strengthens user privacy.\n\nThe change is part of Amazon’s push toward faster and more efficient smart assistants."
   },
   {
-    "title": "NVIDIA Reveals New AI Video Generation Tech 🎥",
-    "full": "NVIDIA researchers showcased next-generation AI video technology capable of generating realistic short videos from text prompts.",
-    "image": "https://i.imgur.com/Y4G6K9T.jpg"
+    "title": "NVIDIA Demonstrates Improved AI Video Generation",
+    "full": "NVIDIA researchers showcased new AI video generation technology.\n\nThe system produces smoother motion, better scene consistency, and more realistic short videos from text prompts.\n\nThis advancement could impact video creation, gaming, and virtual content workflows."
   },
   {
-    "title": "Claude Mini Becomes Popular for Mobile AI 🚀",
-    "full": "Anthropic’s Claude Mini model gained popularity for providing fast AI responses on mobile devices with low power usage.",
-    "image": "https://i.imgur.com/2RkFZ8A.jpg"
+    "title": "Claude Mini Gains Attention for Mobile AI Performance",
+    "full": "Anthropic’s Claude Mini model has gained attention for its fast response speed on mobile devices.\n\nThe model consumes less power while maintaining strong reasoning abilities.\n\nDevelopers are exploring it for lightweight apps and real-time AI interactions."
   },
   {
-    "title": "Global AI Infrastructure Investment Keeps Rising 💹",
-    "full": "Global investment in AI infrastructure such as data centers, chips, and cloud platforms continued to rise strongly.",
-    "image": "https://i.imgur.com/Jk8Q0vB.jpg"
+    "title": "AI Automation Continues to Reshape Workflows",
+    "full": "Recent industry updates show AI automation accelerating across multiple sectors.\n\nCompanies are automating repetitive tasks while increasing demand for AI-skilled roles.\n\nExperts say adaptation and reskilling are now critical for long-term career stability."
+  },
+  {
+    "title": "IBM Highlights Data Quality as Biggest AI Challenge",
+    "full": "IBM stated that poor data quality remains the main barrier to successful AI adoption.\n\nMany organizations invest in models but ignore data readiness and structure.\n\nIBM advises fixing data foundations before scaling AI solutions."
+  },
+  {
+    "title": "Global AI Infrastructure Investment Remains Strong",
+    "full": "Over the last several days, investment in AI infrastructure has remained strong.\n\nData centers, AI chips, and cloud platforms continue to attract funding.\n\nThis shows sustained confidence in AI’s long-term growth despite market uncertainty."
   }
 ]
