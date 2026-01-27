@@ -1,42 +1,102 @@
 [
   {
-    "title": "Google Expands Gemini Nano Features on Android Devices",
-    "full": "Between January 8 and January 18, Google rolled out further enhancements to Gemini Nano focused on on-device AI performance.\n\nThe updates improve smart replies, offline text summarization, and faster voice processing without heavy cloud dependency.\n\nThis move strengthens Google’s strategy to bring private and low-latency AI features to mid-range Android smartphones."
+    "title": "Google Expands Gemini Nano for Faster On-Device AI",
+    "full": "Google introduced further enhancements to Gemini Nano during this period.\n\nThe update improves offline summaries, smart replies, and on-device voice processing.\n\nThis reduces cloud dependency and improves privacy on Android devices.",
+    "image": "https://i.imgur.com/a1XqQ9L.jpg"
   },
   {
-    "title": "OpenAI Focuses on Accuracy and Reliability in New Model Tests",
-    "full": "Over the past 10 days, OpenAI has been testing internal model updates with a strong emphasis on accuracy and reasoning reliability.\n\nThe goal is to reduce hallucinations and improve step-by-step logical responses, especially for research, coding, and analytical tasks.\n\nThis shift reflects growing demand for dependable AI rather than purely creative outputs."
+    "title": "OpenAI Advances Testing of Reasoning-Focused Models",
+    "full": "OpenAI continued testing new internal AI models focused on reasoning accuracy.\n\nThese models aim to reduce hallucinations and improve step-by-step answers.\n\nThe changes target professional and analytical use cases.",
+    "image": "https://i.imgur.com/b2RkT8M.jpg"
   },
   {
-    "title": "Microsoft Pushes Copilot Deeper into Core Windows Workflows",
-    "full": "Microsoft continued expanding Copilot integration across Windows 11 during the last 10 days.\n\nNew improvements allow users to summarize documents, search files intelligently, and automate common system tasks directly from the OS.\n\nCopilot is increasingly positioned as a built-in productivity assistant rather than an optional feature."
+    "title": "Microsoft Improves Copilot Integration in Windows 11",
+    "full": "Microsoft released Copilot workflow improvements across Windows 11 apps.\n\nUsers can now summarize files and automate tasks more efficiently.\n\nCopilot is becoming a core productivity feature.",
+    "image": "https://i.imgur.com/c3FZpD7.jpg"
   },
   {
-    "title": "Meta Accelerates AI Safety and Deepfake Detection Systems",
-    "full": "Meta introduced new AI safety upgrades aimed at better detection of deepfakes and misleading AI-generated content.\n\nThe updates strengthen moderation across Facebook and Instagram as generative AI content continues to rise.\n\nMeta stated that safety and trust remain key priorities as AI tools become more accessible."
+    "title": "Meta Strengthens AI Safety Systems",
+    "full": "Meta expanded AI moderation tools to better detect deepfakes.\n\nThe update improves identification of misleading AI-generated content.\n\nThis supports safer use of generative AI across platforms.",
+    "image": "https://i.imgur.com/d4M8QkA.jpg"
   },
   {
-    "title": "Amazon Expands On-Device AI Processing for Alexa",
-    "full": "Amazon enhanced on-device AI capabilities for Alexa-powered devices during the last 10 days.\n\nMore voice commands are now processed locally, resulting in faster responses and improved user privacy.\n\nThis update reduces reliance on cloud servers and improves performance on smart home devices."
+    "title": "Amazon Shifts More Alexa Features to On-Device AI",
+    "full": "Amazon increased local AI processing for Alexa devices.\n\nThis results in faster responses and reduced cloud usage.\n\nPrivacy and performance both see improvement.",
+    "image": "https://i.imgur.com/e5VJH2P.jpg"
   },
   {
-    "title": "NVIDIA Highlights Progress in AI Video Generation Research",
-    "full": "NVIDIA researchers showcased further progress in AI-driven video generation technology.\n\nThe focus is on smoother motion, better scene consistency, and more realistic short video outputs from text prompts.\n\nThese advancements could influence future tools for content creation, gaming, and virtual environments."
+    "title": "NVIDIA Shows Progress in AI Video Generation",
+    "full": "NVIDIA researchers showcased updated AI video generation technology.\n\nThe system produces smoother motion and better scene consistency.\n\nIt may influence future content creation tools.",
+    "image": "https://i.imgur.com/f6Z9RkC.jpg"
   },
   {
-    "title": "Claude Mini Gains Adoption for Lightweight AI Applications",
-    "full": "Anthropic’s Claude Mini model has seen increased adoption over the last 10 days.\n\nDevelopers are using it for mobile and lightweight applications due to its fast response time and low power usage.\n\nThe trend highlights growing interest in efficient AI models rather than only large-scale systems."
+    "title": "Claude Mini Gains Momentum in Mobile AI Apps",
+    "full": "Claude Mini saw wider adoption in lightweight mobile applications.\n\nIts low power usage and fast responses make it ideal for smartphones.\n\nDevelopers prefer it for real-time interactions.",
+    "image": "https://i.imgur.com/g7P0A4E.jpg"
   },
   {
-    "title": "AI Automation Continues to Reshape Business Operations",
-    "full": "Recent updates from multiple industries show AI automation accelerating in daily business workflows.\n\nCompanies are increasingly automating repetitive tasks while focusing human effort on decision-making and creative roles.\n\nExperts emphasize that AI skills are becoming essential across almost every sector."
+    "title": "AI Automation Expands Across Business Operations",
+    "full": "Companies continued adopting AI automation for routine workflows.\n\nThis allows teams to focus on strategic decision-making.\n\nAI literacy is becoming essential in the workplace.",
+    "image": "https://i.imgur.com/h8C2N6R.jpg"
   },
   {
-    "title": "IBM Warns That Data Readiness Is Still the Biggest AI Barrier",
-    "full": "IBM reiterated during the past 10 days that poor data quality remains the biggest obstacle to successful AI adoption.\n\nMany organizations invest in AI models without fixing data structure, governance, and accuracy.\n\nIBM advises companies to prioritize data foundations before scaling AI systems."
+    "title": "IBM Highlights Data Quality as Key AI Challenge",
+    "full": "IBM again stressed the importance of clean and structured data.\n\nPoor data quality limits AI effectiveness.\n\nOrganizations are advised to fix data foundations first.",
+    "image": "https://i.imgur.com/i9ZKJ5u.jpg"
   },
   {
-    "title": "Global Investment in AI Infrastructure Remains Strong in January",
-    "full": "From January 8 to January 18, global investment in AI infrastructure continued at a strong pace.\n\nSpending on data centers, AI chips, and cloud platforms shows sustained confidence in AI’s long-term growth.\n\nAnalysts note that infrastructure remains a critical backbone of the AI ecosystem."
+    "title": "Global Investment in AI Infrastructure Remains Strong",
+    "full": "AI infrastructure spending stayed strong through late January.\n\nData centers and AI chips continue to attract investment.\n\nConfidence in long-term AI growth remains high.",
+    "image": "https://i.imgur.com/j0P8VtM.jpg"
+  },
+  {
+    "title": "AI Adoption Increases in Education Platforms",
+    "full": "Education platforms expanded AI-powered learning tools.\n\nPersonalized feedback and summaries gained popularity.\n\nAI is becoming a core part of digital education.",
+    "image": "https://i.imgur.com/k1YB7eQ.jpg"
+  },
+  {
+    "title": "Healthcare Sector Expands AI Diagnostics",
+    "full": "Healthcare providers increased AI-assisted diagnostics.\n\nAI systems help improve speed and accuracy.\n\nDoctors continue to use AI as a support tool.",
+    "image": "https://i.imgur.com/l2WcD9N.jpg"
+  },
+  {
+    "title": "Content Creators Rely More on AI Tools",
+    "full": "Creators increasingly use AI for scripts and captions.\n\nShort-form content benefits from faster planning.\n\nAI is now standard in creator workflows.",
+    "image": "https://i.imgur.com/m3H2L0B.jpg"
+  },
+  {
+    "title": "Small Businesses Accelerate AI Adoption",
+    "full": "Small businesses adopted AI for marketing and analytics.\n\nAffordable tools reduced entry barriers.\n\nAI use is spreading beyond large enterprises.",
+    "image": "https://i.imgur.com/n4QZ7Sx.jpg"
+  },
+  {
+    "title": "AI Ethics Discussions Gain Global Attention",
+    "full": "AI ethics discussions intensified worldwide.\n\nExperts called for transparency and accountability.\n\nResponsible AI use is becoming a priority.",
+    "image": "https://i.imgur.com/o5X9F2W.jpg"
+  },
+  {
+    "title": "AI Coding Assistants Continue to Improve",
+    "full": "Coding assistants showed better suggestions and debugging.\n\nDevelopers report productivity gains.\n\nAI is becoming a coding partner.",
+    "image": "https://i.imgur.com/p6T4D8K.jpg"
+  },
+  {
+    "title": "AI Content Quality Becomes a Major Focus",
+    "full": "Quality and originality concerns around AI content increased.\n\nPlatforms are improving detection systems.\n\nBalancing creativity and authenticity is key.",
+    "image": "https://i.imgur.com/q7N1A0R.jpg"
+  },
+  {
+    "title": "Personal AI Assistants Become More Context-Aware",
+    "full": "AI assistants improved contextual understanding.\n\nThis enables better task handling and responses.\n\nDaily productivity benefits from these changes.",
+    "image": "https://i.imgur.com/r8E6MZy.jpg"
+  },
+  {
+    "title": "AI Usage Expands in Financial Services",
+    "full": "Financial institutions increased AI usage for forecasting.\n\nImproved accuracy raised trust levels.\n\nAI is becoming standard in finance.",
+    "image": "https://i.imgur.com/s9D4JH1.jpg"
+  },
+  {
+    "title": "AI Remains Central to Global Tech Strategy",
+    "full": "AI continued to dominate global tech discussions.\n\nCompanies positioned AI as a long-term strategy.\n\nMomentum remains strong moving forward.",
+    "image": "https://i.imgur.com/t0KQW8V.jpg"
   }
 ]
