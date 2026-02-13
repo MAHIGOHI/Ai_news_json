@@ -1,138 +1,87 @@
 [
   {
-    "title": "Google Upgrades AI Overviews with Gemini 3 Power",
-    "full": "Google made Gemini 3 the default model powering AI Overviews globally, enhancing smoother chat transitions and contextual follow-ups across multiple languages, reaching millions of daily users.0"
+    "title": "UK Enforces New Deepfake Law with Criminal Penalties",
+    "full": "The UK government’s new law has come into effect criminalizing the creation of non-consensual AI-generated explicit deepfake images.\n\nVictims and campaigners have welcomed the legal milestone, but called for stronger civil protections and takedown frameworks.\n\nThis represents a major shift in AI image abuse regulation worldwide. See full coverage by AP News.0",
+    "image": "https://i.imgur.com/ve0eF3U.jpg"
   },
   {
-    "title": "SpaceX–xAI Merger Plan Focuses on AI Data Centers",
-    "full": "A proposed merger between SpaceX and xAI aims to put orbital data centers at the center of the AI infrastructure race, signaling a strategic shift toward space-based compute for future AI workloads.1"
+    "title": "India AI Impact Summit 2026 to Convene Global AI Leaders",
+    "full": "The India AI Impact Summit 2026 will be held in New Delhi, bringing together governments, researchers, innovators, and startups from over 100 countries.\n\nThe summit aims to foster responsible, inclusive, and impactful AI development.\n\nThe Economic Times has joined as an official media partner for the event.1",
+    "image": "https://i.imgur.com/BRyUp6y.jpg"
   },
   {
-    "title": "UK Regulator Proposes AI Search Opt-Out Rules",
-    "full": "The UK Competition and Markets Authority proposed giving publishers more control over how their content is used in generative AI services like Google’s AI Overviews, aiming for greater transparency and fairness in search generative features.2"
+    "title": "Google Showcases Personal Intelligence in Gemini App",
+    "full": "Google announced a major round-up of its AI product developments in January 2026, including enhanced Personal Intelligence capabilities within the Gemini app.\n\nThis allows integration with Gmail, Photos and Search for improved personalized AI assistance.\n\nChrome’s AI features and new learning tools were also highlighted as part of this month’s news.2",
+    "image": "https://i.imgur.com/1lQHjKM.jpg"
   },
   {
-    "title": "Google Warns AI Search Limits Could Hurt Search UX",
-    "full": "Google cautioned that strict separation between traditional search and AI-powered results may fragment the user experience, highlighting the challenge of balancing innovation with content fairness.3"
+    "title": "International AI Safety Report 2026 Highlights Growing Risks",
+    "full": "The newly released International AI Safety Report highlights the rapid advancement of general-purpose AI and outlines growing concerns around malicious use, technical failures, and systemic risk.\n\nIt discusses misuse potential including AI-enabled cyberattacks, disinformation, and harmful deepfakes.\n\nPolicy groups are urged to balance safety preparedness with innovation.3",
+    "image": "https://i.imgur.com/fG8UiqN.jpg"
   },
   {
-    "title": "Meta Announces Major AI Investment Plans",
-    "full": "Meta Platforms reported strong earnings and announced plans to increase its AI-related spending to $135 billion in 2026, focusing on data centers, Superintelligence Labs, and new AI models.4"
+    "title": "Alibaba Leads Physical AI Innovation with RynnBrain Robot Model",
+    "full": "Alibaba has unveiled its open-source AI robot model, RynnBrain, signaling a major push into physical AI applications.\n\nThis model is intended to bridge digital intelligence and robotic task execution, expanding China’s AI footprint in real-world automation.\n\nThe announcement was featured in global AI news coverage.4",
+    "image": "https://i.imgur.com/GcjUTsP.jpg"
   },
   {
-    "title": "AI Safety Report Highlights Deepfake and Risk Trends",
-    "full": "The 2026 International AI Safety Report warned about the increasing realism of deepfakes and challenges in distinguishing AI-generated content, while also acknowledging benefits in drug discovery and diagnostics.5"
+    "title": "FedEx Pilots AI for Shipment Tracking & Returns Optimization",
+    "full": "FedEx is testing advanced AI implementations to enhance package tracking accuracy and improve returns logistics efficiency.\n\nThe goal is to reduce delays, lower error rates, and improve customer experience.\n\nThe pilot showcases broader logistics AI adoption trends.5",
+    "image": "https://i.imgur.com/lQnHD3b.jpg"
   },
   {
-    "title": "OpenAI Testing Ads in ChatGPT Free & Go Tiers",
-    "full": "OpenAI confirmed it will test advertisement placements in its free and Go tiers of ChatGPT, aiming to support accessibility while maintaining privacy protections for users.6"
+    "title": "Agentic AI Gains Traction in Finance & Automation",
+    "full": "Recent AI news highlights agentic AI, capable of autonomous task execution, driving ROI in finance and automation use cases such as accounts payable and operational workflows.\n\nEnterprise adoption signals a shift toward strategic AI utilization.\n\nThis trend was featured prominently in AI industry summaries.6",
+    "image": "https://i.imgur.com/zU5v1QS.jpg"
   },
   {
-    "title": "OpenAI Partners with ServiceNow on Enterprise AI",
-    "full": "OpenAI signed a multi-year partnership with ServiceNow to integrate models like GPT-5.2 into enterprise workflows, automating tasks across IT, HR, finance, and more.7"
+    "title": "AI Deployment in Financial Services Hits Key Inflection Point",
+    "full": "AI integration in financial services has reached a critical stage, with Singapore leading the shift to production use cases.\n\nThese include risk analysis, compliance automation, and forecasting.\n\nFinancial sectors across Asia Pacific are now prominently advancing AI use.7",
+    "image": "https://i.imgur.com/YNs2PtZ.jpg"
   },
   {
-    "title": "Anthropic Partners to Train Teachers on Claude AI",
-    "full": "Anthropic and Teach For All launched a global AI literacy program to train 100,000 teachers using Claude, aiming to expand feedback loops for future product improvements.8"
+    "title": "Red Hat Unifies AI & Edge Deployment for UK MOD",
+    "full": "Red Hat announced unified AI and edge computing deployments for the UK Ministry of Defence, aimed at enhancing operational data processing in remote scenarios.\n\nThis strategic effort combines AI insights with edge systems for defense applications.\n\nIt underlines AI’s strengthening role in critical infrastructure.8",
+    "image": "https://i.imgur.com/RsDnfYx.jpg"
   },
   {
-    "title": "AI Investment Roundups Show Nearly $200B in Deals",
-    "full": "Major tech players including Meta, OpenAI, Nvidia, Amazon, and Microsoft are linked to nearly $200 billion in AI deals, reflecting the continued flood of investment into AI infrastructure and tools.9"
+    "title": "Travelers Uses AI to Restructure Call Centre Operations",
+    "full": "Insurance company Travelers expanded AI usage to automate call centre tasks, resulting in reduced reliance on traditional support roles.\n\nThis reflects broader enterprise AI deployment trends focusing on operational efficiency.\n\nThe shift illustrates how AI transforms service industries.9",
+    "image": "https://i.imgur.com/4oABbQH.jpg"
   },
   {
-    "title": "Google’s Product Genie Sparks Industry Reaction",
-    "full": "Google’s new AI-led Project Genie, a world-building tool for interactive experiences, caused stock dips in major gaming companies due to concerns over AI’s disruptive potential in content creation.10"
+    "title": "AI in HR Tech Improves Hiring & Screening Workflows",
+    "full": "HR departments across global organizations are implementing AI tools to streamline screening, candidate matching, and workforce analytics.\n\nAI enhancements are improving speed and accuracy while freeing HR professionals for strategic tasks.\n\nThis trend reflects AI adoption across corporate functions.10",
+    "image": "https://i.imgur.com/rPG3D1L.jpg"
   },
   {
-    "title": "AI Tools Grow in Usage Among Content Creators",
-    "full": "Content creators increasingly use AI to generate scripts, captions, and ideas, making AI a standard part of the creative workflow. (Industry trend)11"
+    "title": "Cybersecurity Teams Grow AI Defense Capabilities",
+    "full": "Cyber defense departments have begun deploying advanced AI systems to quickly detect anomalies and respond to evolving digital threats.\n\nAI tools can improve response times and reduce risk exposure.\n\nThis adoption trend underscores AI’s critical role in secure computing.11",
+    "image": "https://i.imgur.com/XV7G2Kt.jpg"
   },
   {
-    "title": "AI Adoption Expands in Small Business Applications",
-    "full": "Small businesses are adopting AI tools for marketing, analytics, and customer engagement as costs drop and tool usability improves. (Industry trend)12"
+    "title": "Agentic AI in Healthcare Expected to Unlock $450B Value",
+    "full": "Healthcare and life sciences sectors are projected to generate up to $450 billion in value by 2028 through agentic AI implementations focused on diagnostics, workflows, and personalized care.\n\nThis projection highlights the economic potential of autonomous AI systems.\n\nIt was featured in industry trend analyses.12",
+    "image": "https://i.imgur.com/n7qU0TQ.jpg"
   },
   {
-    "title": "AI in Education Platforms Sees Increased Integration",
-    "full": "AI-driven personalized learning tools are expanding in education, helping deliver tailored feedback and automated support. (Industry trend)13"
+    "title": "E-Commerce Platforms Drive AI Personalization Revenue",
+    "full": "AI-driven personalization is boosting e-commerce engagement and revenue by tailoring product recommendations and user journeys.\n\nBrands are leveraging AI insights to enhance customer experience.\n\nThis trend continues to flourish across digital retail platforms.13",
+    "image": "https://i.imgur.com/U3DkT2w.jpg"
   },
   {
-    "title": "AI Continues Reshaping Job and Hiring Trends",
-    "full": "Employers increasingly prioritize AI-related skillsets as workspace planning evolves with AI-assisted operations. (Industry trend)14"
+    "title": "AI Analytics Tools Deliver Faster Business Insights",
+    "full": "AI-powered analytics platforms are providing businesses with faster and more accurate insights than traditional methods.\n\nThese tools are increasingly used for strategic decision making.\n\nThe result is improved data-driven outcomes.14",
+    "image": "https://i.imgur.com/Sj2Hm5w.jpg"
   },
   {
-    "title": "AI Regulatory Discussions Continue Globally",
-    "full": "Lawmakers across regions are discussing frameworks for AI accountability, transparency and safe deployment without stifling innovation. (AI governance trend)15"
+    "title": "AI Adoption Surges in Education and Learning Tools",
+    "full": "Educational institutions and EdTech companies are incorporating AI to personalize learning, provide instant feedback, and support automated tutoring.\n\nThis expands access to adaptive learning solutions.\n\nAI is reshaping how students interact with educational content.15",
+    "image": "https://i.imgur.com/7yJb8lN.jpg"
   },
   {
-    "title": "AI-Powered Customer Support Adoption Accelerates",
-    "full": "More companies are integrating AI chat and support tools, improving response times while emphasizing human oversight. (Sector trend)16"
-  },
-  {
-    "title": "Generative AI Improves Translation and Language Tools",
-    "full": "AI translation systems continue improving contextual accuracy, reducing language barriers and aiding global communication. (Technology trend)17"
-  },
-  {
-    "title": "AI Marketing Automation Sees Stronger Uptake",
-    "full": "Marketing teams increasingly deploy AI-powered automation for campaign planning, analytics, and targeting. (Sector trend)18"
-  },
-  {
-    "title": "AI Voice Technologies Advance in Accuracy",
-    "full": "Voice-based AI assistants show improvements in natural interaction quality and contextual understanding. (Technology trend)19"
-  },
-  {
-    "title": "AI in Finance Gains Traction for Forecasting",
-    "full": "Financial institutions increase AI use for risk analysis, forecasting, and automation in trading and compliance functions. (Sector trend)20"
-  },
-  {
-    "title": "AI-Assisted Cybersecurity Tools Wake Up",
-    "full": "Security teams are adopting AI to detect threats more quickly, improving defense and incident response. (Technology trend)21"
-  },
-  {
-    "title": "AI Models Shift Focus to Efficiency and Scale",
-    "full": "Developers and researchers are prioritizing efficient AI models that balance power, cost, and sustainability for real-world deployment. (Industry trend)22"
-  },
-  {
-    "title": "AI Tools Become More Accessible to Beginners",
-    "full": "Simplified interfaces and lower entry barriers make AI tools accessible to a broader audience beyond technical users. (User adoption trend)23"
-  },
-  {
-    "title": "AI Customer Experience Tools Enhance Personalization",
-    "full": "AI-driven insights are increasingly used to personalize customer experiences in retail, e-commerce, and digital services. (Sector trend)24"
-  },
-  {
-    "title": "AI in Robotics Shows Incremental Progress",
-    "full": "Researchers report incremental advancements in AI for robotics, enabling better perception and task execution in dynamic environments. (Research trend)25"
-  },
-  {
-    "title": "AI and Edge Computing Combine for Real-Time Use Cases",
-    "full": "Edge AI deployments grow as models adapt for low-latency and offline applications in IoT, mobile and autonomous systems. (Technology trend)26"
-  },
-  {
-    "title": "AI Agents Gain Curriculum Focus in Research",
-    "full": "New benchmarks for agentic AI evaluate long-horizon tasks across environments, hinting at future autonomous AI workflows.27"
-  },
-  {
-    "title": "AI Model Usage Patterns Mapped Across Trillions of Tokens",
-    "full": "A large empirical study analyzed 100 trillion AI interactions, revealing insights on usage categories, model retention, and emergent patterns of interaction.28"
-  },
-  {
-    "title": "AI Continues Shaping Enterprise Platforms",
-    "full": "Business platforms increasingly incorporate AI-driven insights into workflows to handle complex tasks, data analysis, and user interactions. (Enterprise trend)29"
-  },
-  {
-    "title": "AI Learning Tools Expand Tutoring and Feedback",
-    "full": "AI tutoring platforms gain adoption for automated feedback and personalized learning support in education. (Education trend)30"
-  },
-  {
-    "title": "AI-Driven Analytics Tools Enhance Decision Making",
-    "full": "Business analytics tools powered by AI provide insights faster and with greater accuracy than traditional methods. (Technology trend)31"
-  },
-  {
-    "title": "AI Personalization Enhances E-Commerce Experiences",
-    "full": "E-commerce platforms deploy AI to tailor product recommendations and customer journeys, boosting engagement. (Sector trend)32"
-  },
-  {
-    "title": "AI Infrastructure Spending Continues to Grow",
-    "full": "Global capital flows into AI infrastructure — data centers, chips and cloud services — remain robust as demand rises for compute resources. (Industry trend)33"
+    "title": "AI Workforce Skills Still a High Priority in Tech Jobs",
+    "full": "Reports indicate that AI-related skill requirements continue to drive hiring demand, with employers seeking professionals adept in machine learning, data analysis, and automation tools.\n\nDespite some job displacement concerns, growth remains strong in AI roles.16",
+    "image": "https://i.imgur.com/6rMTz3Q.jpg"
   }
 ]
