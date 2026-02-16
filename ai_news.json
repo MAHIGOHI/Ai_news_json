@@ -1,77 +1,34 @@
-[
-  {
-    "title": "UN Approves Global 40-Member AI Panel on Impact",
-    "link": "https://apnews.com/article/8936f242689792be7a7ab97e841cade8",
-    "full": "The United Nations General Assembly approved the formation of a 40-member scientific panel to assess societal and economic impacts of artificial intelligence worldwide.\n\nDespite objections from the U.S. and Paraguay, the panel aims to guide policy frameworks and bridge knowledge gaps in AI governance. Experts from over 2,600 candidates were considered.0"
-  },
-  {
-    "title": "Lenovo Tech World ’26 India Wraps Up with Qira Enterprise AI Push",
-    "link": "https://timesofindia.indiatimes.com/technology/tech-news/lenovo-tech-world26-india-wraps-up-with-qira-debut-and-enterprise-ai-push/articleshow/128307982.cms",
-    "full": "Lenovo concluded its India edition of Tech World ’26 in New Delhi, showcasing its ambient AI system Qira and emphasizing hybrid enterprise AI solutions tailored for the Indian market.\n\nThe event highlighted Lenovo’s commitment to digital transformation and broader enterprise AI adoption across industries.1"
-  },
-  {
-    "title": "Apple Delays Siri 2.0 AI Upgrade, Stock Drops",
-    "link": "https://www.investors.com/news/technology/apple-stock-aapl-siri-release-delayed-again/",
-    "full": "Apple’s highly anticipated Siri 2.0 AI upgrade has been delayed again, missing its original early-2026 release timeline.\n\nThe staggered launch now begins in May 2026, disappointing investors and leading to a stock decline. Analysts cite technical challenges and privacy integration complexity.2"
-  },
-  {
-    "title": "UK Supreme Court Rules AI Neural Networks Can Be Patented",
-    "link": "https://www.reuters.com/legal/litigation/uk-supreme-court-ruling-patents-ai-is-boost-innovation-lawyers-say-2026-02-11/",
-    "full": "The UK Supreme Court ruled that artificial neural networks (ANNs), a form of AI software, can be patented if tied to physical hardware, a legal shift expected to boost innovation.\n\nThe court referred the case back to the UK Intellectual Property Office for reconsideration, potentially simplifying future AI patents.3"
-  },
-  {
-    "title": "AI Fears Trigger Broader Tech Sell-Off in Global Markets",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-12-2026",
-    "full": "Tech stocks, including major AI-linked companies, saw a broad sell-off as investor concerns about rapid AI adoption resurfaced.\n\nThe Nasdaq ledger led declines, reflecting market anxiety around AI’s impact on labor, competition, and regulation.4"
-  },
-  {
-    "title": "AI Deepfake Backlash at 2026 Winter Olympics for Music Use",
-    "link": "https://people.com/czech-figure-skaters-face-backlash-for-using-ai-generated-music-in-olympic-routine-11903604",
-    "full": "At the Winter Olympics, Czech figure skaters drew criticism for using AI-generated music in their routine, igniting debate about ethics and creative integrity.\n\nCritics cite concerns about artistic authenticity and the environmental impact of generative AI content.5"
-  },
-  {
-    "title": "India’s AI Impact Summit 2026 to Shape Global AI Policy",
-    "link": "https://timesofindia.indiatimes.com/technology/tech-news/india-ai-impact-summit-2026-what-it-is-whos-coming-and-why-it-matters/articleshow/128207697.cms",
-    "full": "The India AI Impact Summit 2026, scheduled for February 16–20 in New Delhi, will be the first global AI summit hosted in the Global South.\n\nGlobal leaders including Sundar Pichai, Sam Altman, and Jensen Huang are confirmed attendees, focusing on AI safety, inclusion, and economic growth.6"
-  },
-  {
-    "title": "India Strengthens AI Content and Deepfake Regulation",
-    "link": "https://www.india-briefing.com/news/india-ai-regulation-2026-foreign-platform-compliance-42745.html",
-    "full": "Amendments to India’s IT Rules, notified on February 10, 2026, expanded compliance obligations for AI content and deepfake regulation.\n\nPlatforms must now label synthetic content, remove harmful AI-generated media more quickly, and adhere to new transparency norms.7"
-  },
-  {
-    "title": "Top AI Trend: Autonomous Agents Driving Finance Automation",
-    "link": "https://www.simplilearn.com/top-technology-trends-and-jobs-article",
-    "full": "According to recent industry trend reports, autonomous AI and agentic systems are among the top tech movements for 2026, especially impacting finance and enterprise workflows.\n\nThese systems are expected to accelerate automation across sectors.8"
-  },
-  {
-    "title": "Debate Over AI’s Impact on Jobs Continues in Tech Media",
-    "link": "https://www.theguardian.com/technology/2026/feb/13/ai-effects-on-business-industry-evidence-to-allay-investor-fears",
-    "full": "Industry coverage shows mixed views on AI’s potential to disrupt jobs versus its capacity to foster growth.\n\nInvestors and analysts note both market anxiety and empirical evidence that AI can create new opportunities — deepening the debate.9"
-  },
-  {
-    "title": "Global AI Research Insights Expand at MIT and J-PAL Initiative",
-    "link": "https://news.mit.edu/topic/artificial-intelligence2",
-    "full": "Project AI Evidence, a new research and policy initiative, seeks to test and scale AI innovations for public impact in fighting poverty.\n\nThe collaboration involves governments, tech companies, and global researchers to evaluate and improve AI solutions.10"
-  },
-  {
-    "title": "Economic Trends Report Highlights AI Adoption in Supply Chains",
-    "link": "https://www.trigyn.com/insights/ai-trends-2026-new-era-ai-advancements-and-breakthroughs",
-    "full": "Recent analyses indicate that AI is now deeply integrated into enterprise supply chains, with innovations optimizing resilience, forecasting, and operational execution.\n\nAI’s role in modern business strategy is increasing rapidly.11"
-  },
-  {
-    "title": "Reuters: Microsoft FTC Antitrust Scrutiny Intensifies",
-    "link": "https://www.reuters.com/technology/artificial-intelligence/",
-    "full": "According to Reuters, the U.S. FTC is intensifying scrutiny of Microsoft’s licensing and AI cloud practices, seeking answers from rival companies.\n\nThis regulatory focus reflects growing concern about AI market power and platform dominance.12"
-  },
-  {
-    "title": "DeepSeek’s Next-Gen Coding AI Model V4 Targeted for 2026",
-    "link": "https://www.reuters.com/technology/deepseek-launch-new-ai-model-focused-coding-february-information-reports-2026-01-09",
-    "full": "Chinese AI startup DeepSeek plans to launch its next-generation AI model V4, designed for advanced coding capabilities and competitive performance.\n\nEmployees suggest the model could rival Anthropic and OpenAI offerings.13"
-  },
-  {
-    "title": "AI Impact Summit Sparks Debate on India’s Strategic AI Role",
-    "link": "https://timesofindia.indiatimes.com/technology/tech-news/indias-ai-choices-at-the-2026-ai-impact-summit-amid-structural-drifts-in-global-markets/articleshow/128298538.cms",
-    "full": "As the AI Impact Summit approaches, global AI ecosystems undergo structural recalibration.\n\nIndia’s policy choices balance neural network scaling with alternative data architectures, highlighting strategic sovereignty concerns in global competition.14"
-  }
-]
+{
+  "jobs": [
+    {
+      "tag": "Online",
+      "title": "AI Content Writer",
+      "provider": "Ai Info Tech",
+      "price": "₹15,000/mo",
+      "url": "https://www.google.com"
+    },
+    {
+      "tag": "Remote",
+      "title": "Prompt Engineer",
+      "provider": "SN Pixel",
+      "price": "$20/hr",
+      "url": "https://www.openai.com"
+    }
+  ],
+  "courses": [
+    {
+      "tag": "Free",
+      "title": "Mastering ChatGPT 4",
+      "provider": "AI Academy",
+      "price": "₹0",
+      "url": "https://www.youtube.com"
+    },
+    {
+      "tag": "Premium",
+      "title": "AI Video Editing",
+      "provider": "Creative Hub",
+      "price": "₹499",
+      "url": "https://www.udemy.com"
+    }
+  ]
+}
