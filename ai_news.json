@@ -1,14 +1,104 @@
 {
   "updates": [
     {
-      "title": "OpenAI Launches Sora: The Video Revolution",
-      "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-      "description": "OpenAI has officially released Sora to premium users. This model can generate 60-second high-fidelity videos from text.\n\nThe AI community is stunned by the realism of the physics and lighting in these generated clips.\n\nExperts suggest this will disrupt the traditional stock footage and advertising industries forever.\n\nBeta testers are currently exploring cinematic storytelling with Sora.\n\nSora's safety features ensure no harmful content is generated during the initial rollout."
+      "title": "OpenAI Sora Public Beta Rollout",
+      "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
+      "description": "OpenAI has started the public beta rollout of Sora for all Plus users worldwide.\nUsers can now generate up to 60 seconds of high-fidelity video using simple text prompts.\nThe model features improved physics engine consistency for complex human movements.\nSafety filters have been updated to prevent the generation of deepfake political content.\nSora is now integrated directly into the OpenAI mobile app for on-the-go creation."
     },
     {
-      "title": "Google Gemini 2.0 Pro: Ultimate Performance",
-      "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
-      "description": "Google announces Gemini 2.0 Pro with a massive 2-million token context window.\n\nIt can now process hours of video and thousands of code files in one single prompt.\n\nIntegration with Google Workspace is now seamless across all mobile devices.\n\nThe update includes improved reasoning capabilities for complex coding tasks.\n\nDevelopers can now access the new API via Vertex AI for enterprise scaling."
+      "title": "Google Gemini 2.0 Ultra Release",
+      "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800",
+      "description": "Google officially launched Gemini 2.0 Ultra, their most capable AI model to date.\nIt features a massive 2-million token context window for processing long documents and code.\nThe model shows superior reasoning in multi-step coding and mathematical problem-solving.\nIntegration with Google Workspace allows for automated high-level project management.\nUltra is now available via Vertex AI for enterprise-scale developers and researchers."
+    },
+    {
+      "title": "Apple Intelligence: Siri 2.0 Live",
+      "img": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=800",
+      "description": "Apple has integrated Generative AI into Siri, transforming it into a proactive personal assistant.\nSiri can now perform complex on-screen actions across multiple third-party applications.\nPrivate Cloud Compute ensures that user data remains encrypted even during AI processing.\nNew writing tools help users summarize and rewrite emails with emotional intelligence.\nThis update is now rolling out to all iPhone 15 Pro and iPhone 16 users."
+    },
+    {
+      "title": "DeepSeek Coder V2 Beats GPT-4o",
+      "img": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800",
+      "description": "The new DeepSeek Coder V2 has officially surpassed GPT-4o in several coding benchmarks.\nIt is an open-source model designed specifically for Python and JavaScript optimization.\nDevelopers are reporting 40% faster code generation speeds with higher accuracy rates.\nThe model supports over 300 programming languages in its latest updated repository.\nDeepSeek is now available for local hosting on consumer-grade hardware for privacy."
+    },
+    {
+      "title": "Nvidia Blackwell AI Chips Shipping",
+      "img": "https://images.unsplash.com/photo-1591453089816-0fbb971b454c?w=800",
+      "description": "Nvidia has started shipping the first batch of Blackwell B200 GPUs to major data centers.\nThese chips offer a 25x reduction in cost and energy consumption for LLM training.\nAzure and AWS have already secured the largest orders for their next-gen cloud services.\nBlackwell's new architecture enables real-time generative AI at an unprecedented scale.\nThis release is expected to accelerate the development of AGI across the tech industry."
+    },
+    {
+      "title": "Groq LPU Surpasses Cloud Speeds",
+      "img": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800",
+      "description": "Groq's LPU technology has achieved record-breaking inference speeds for Meta's Llama 3.\nIt can now process 500 tokens per second, making AI conversations feel instantaneous.\nThis hardware-focused approach eliminates the typical latency found in cloud AI services.\nEnterprises are switching to Groq for real-time customer support automation projects.\nThe company announced a new developer portal to make LPU integration much easier."
+    },
+    {
+      "title": "Microsoft Copilot Pages for Work",
+      "img": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=800",
+      "description": "Microsoft introduced 'Pages', a new loop-based collaborative workspace for AI content.\nUsers can now pull in AI-generated data and collaborate with team members in real-time.\nIt bridges the gap between AI chat and traditional document editing in Microsoft 365.\nThe system automatically organizes project resources and suggests missing components.\nCopilot Pages is now available for all Microsoft 365 Business subscribers globally."
+    },
+    {
+      "title": "Stable Diffusion 3 Medium Release",
+      "img": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800",
+      "description": "Stability AI has released SD3 Medium, their most advanced text-to-image model for PC.\nIt features vastly improved text rendering within images, a common weakness in older versions.\nThe model is optimized to run on standard consumer GPUs with 8GB of VRAM.\nArtists are using it for complex compositions with multiple high-detail subjects.\nSD3 Medium is available under a new community license for creators and researchers."
+    },
+    {
+      "title": "Meta Llama 4 Development Confirmed",
+      "img": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800",
+      "description": "Mark Zuckerberg confirmed that training for Llama 4 has begun on a massive scale.\nThe model aims to achieve AGI-level reasoning and native multimodal capabilities.\nIt is being trained on a cluster of over 600,000 Nvidia H100 equivalent GPUs.\nMeta plans to keep the model open-source to drive global AI innovation and standards.\nExpectations are high for Llama 4 to set new benchmarks in autonomous agents."
+    },
+    {
+      "title": "Midjourney Web Version Goes Live",
+      "img": "https://images.unsplash.com/photo-1547826039-bfc35e0f1ea8?w=800",
+      "description": "Midjourney has finally removed the Discord requirement, launching its full web platform.\nAll users can now generate, organize, and edit images directly in their browsers.\nThe website features a new 'Rooms' system for collaborative AI art creation live.\nNew editing tools allow for precise in-painting and out-painting without complex prompts.\nA free trial is currently available for new users to test the V6.1 engine quality."
+    },
+    {
+      "title": "Claude 3.5 Sonnet Coding Update",
+      "img": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=800",
+      "description": "Anthropic updated Claude 3.5 Sonnet with a new 'Artifacts' UI for real-time coding.\nUsers can now view and interact with code, websites, and diagrams side-by-side with chat.\nThe update significantly reduces hallucination rates in complex architectural planning.\nSonnet 3.5 has become the top-rated model on several human-eval coding leaderboards.\nIntegration with GitHub is now being tested for seamless developer workflows."
+    },
+    {
+      "title": "Character.ai Surpasses Millions",
+      "img": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800",
+      "description": "Character.ai reported a massive surge in daily active users for their AI personas.\nThe platform introduced 'Calls', allowing users to speak with AI characters in real-time.\nVoice latency has been reduced to sub-500ms for a more natural conversation feel.\nSafety protocols have been tightened to protect younger users on the platform.\nNew partnership with Google will help scale their infrastructure globally for 2026."
+    },
+    {
+      "title": "ElevenLabs Video Dubbing Tool",
+      "img": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800",
+      "description": "ElevenLabs launched an AI Video Dubber that preserves the original speaker's voice.\nIt can translate and dub content into 29 languages while maintaining emotional tone.\nThe system automatically adjusts the timing of the audio to match visual lip-sync.\nContent creators are using it to expand their YouTube reach to global audiences.\nThe tool supports high-definition output for professional filmmaking and ads."
+    },
+    {
+      "title": "Perplexity AI Search Ads Launch",
+      "img": "https://images.unsplash.com/photo-1504868584819-f8e90526354a?w=800",
+      "description": "Perplexity AI is introducing sponsored follow-up questions to monetize its platform.\nAds will be clearly marked and relevant to the user's specific search context.\nThe company aims to maintain an objective answer quality while generating revenue.\nBrand partners can now bid on specific high-intent AI search categories.\nThis move marks a significant shift in the future of AI-powered digital advertising."
+    },
+    {
+      "title": "Mistral Large 2 Open Release",
+      "img": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+      "description": "Mistral AI released 'Large 2', an open-weights model rivaling Llama 3.1 405B.\nIt is designed for multilingual excellence and high-end enterprise reasoning tasks.\nThe model is significantly more efficient than its predecessor in terms of memory usage.\nIt has been optimized for long-context understanding across 80+ human languages.\nLarge 2 is now available on Hugging Face and all major cloud provider platforms."
+    },
+    {
+      "title": "Humane AI Pin Version 2.0",
+      "img": "https://images.unsplash.com/photo-1510127034890-ba27508e9f1c?w=800",
+      "description": "Humane announced a major hardware and software overhaul for the AI Pin 2.0.\nThe laser ink display is now brighter and clearer for outdoor usage scenarios.\nBattery life has been doubled through a new 'Energy-Wise' AI processing chip.\nThe operating system now supports native translation and real-time navigation tools.\nExisting owners of the first version will receive a significant discount for upgrading."
+    },
+    {
+      "title": "Adobe Firefly Video Model Beta",
+      "img": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=800",
+      "description": "Adobe is integrating its generative AI video model directly into Premiere Pro.\nEditors can now extend clips and remove unwanted objects using text commands.\nThe model is trained exclusively on Adobe Stock content to ensure commercial safety.\nNew 'Text-to-Video' features help creators generate b-roll footage instantly.\nFirefly Video is now available for beta testing via the Creative Cloud ecosystem."
+    },
+    {
+      "title": "Jasper AI Acquires Clipdrop",
+      "img": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800",
+      "description": "Jasper AI has completed the acquisition of Clipdrop from Stability AI.\nThe move aims to combine generative text with advanced image editing for brands.\nJasper users can now remove backgrounds and upscale images inside the editor.\nNew 'Visual Brand Voice' features will ensure image consistency for businesses.\nThe integration is part of Jasper's strategy to lead the AI marketing workspace."
+    },
+    {
+      "title": "Tesla Optimus Gen 2 Production",
+      "img": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800",
+      "description": "Elon Musk announced that Tesla Optimus Gen 2 has entered limited production.\nThe humanoid robot is now being used for simple sorting tasks in Tesla factories.\nIt features new tactile sensors in all fingers for delicate object handling.\nThe AI end-to-end neural network is trained on the same data as FSD for cars.\nExternal sales for industrial partners are expected to begin by late 2026."
+    },
+    {
+      "title": "X.ai Releases Grok-2 Mini",
+      "img": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?w=800",
+      "description": "Elon Musk's X.ai released Grok-2 Mini, a faster and more efficient version of Grok-2.\nIt offers significantly reduced latency for real-time news analysis on the X platform.\nThe model can now generate images directly within the X chat interface.\nIt is being hailed for its 'unfiltered' and witty personality compared to rivals.\nGrok-2 Mini is now available to all Premium and Premium+ subscribers on X."
     }
   ]
 }
